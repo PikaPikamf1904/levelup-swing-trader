@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 100000.0,
+  "cash": 5706.540000000001,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -30,6 +30,63 @@
     "QQQ",
     "SPY"
   ],
-  "positions": [],
+  "positions": [
+    {
+      "symbol": "QQQ",
+      "entry_date": "2026-05-29",
+      "entry_price": 738.31,
+      "shares": 16,
+      "entry_score": 88.07
+    },
+    {
+      "symbol": "AVGO",
+      "entry_date": "2026-05-29",
+      "entry_price": 446.77,
+      "shares": 26,
+      "entry_score": 84.47
+    },
+    {
+      "symbol": "TSLA",
+      "entry_date": "2026-05-29",
+      "entry_price": 435.79,
+      "shares": 27,
+      "entry_score": 82.58
+    },
+    {
+      "symbol": "AMD",
+      "entry_date": "2026-05-29",
+      "entry_price": 516.1,
+      "shares": 23,
+      "entry_score": 80.0
+    },
+    {
+      "symbol": "MSFT",
+      "entry_date": "2026-05-29",
+      "entry_price": 450.24,
+      "shares": 26,
+      "entry_score": 78.87
+    },
+    {
+      "symbol": "AMZN",
+      "entry_date": "2026-05-29",
+      "entry_price": 270.64,
+      "shares": 44,
+      "entry_score": 77.24
+    },
+    {
+      "symbol": "UNH",
+      "entry_date": "2026-05-29",
+      "entry_price": 380.31,
+      "shares": 31,
+      "entry_score": 76.38
+    },
+    {
+      "symbol": "NVDA",
+      "entry_date": "2026-05-29",
+      "entry_price": 211.14,
+      "shares": 56,
+      "entry_score": 76.05
+    }
+  ],
   "closed_trades": []
 }
