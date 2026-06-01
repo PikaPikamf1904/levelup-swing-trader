@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-30T00:10:01.742764+00:00",
+  "date": "2026-06-01T19:39:46.545845+00:00",
   "total_value": 100000.0,
   "cash": 5706.54,
   "invested": 94293.46,
@@ -13,7 +13,7 @@
       "rsi14": 67.5,
       "momentum_20d": 9.52,
       "momentum_60d": 21.25,
-      "volume_ratio": 0.94,
+      "volume_ratio": 0.96,
       "trend_score": 40.0,
       "learning_bonus": 0.0,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
@@ -26,7 +26,7 @@
       "rsi14": 57.75,
       "momentum_20d": 6.05,
       "momentum_60d": 34.26,
-      "volume_ratio": 2.08,
+      "volume_ratio": 2.14,
       "trend_score": 32.0,
       "learning_bonus": 0.0,
       "reason": "above 20-day trend, above 50-day trend, medium trend rising, positive 20-day momentum, positive 60-day momentum"
@@ -39,7 +39,7 @@
       "rsi14": 52.96,
       "momentum_20d": 11.51,
       "momentum_60d": 7.46,
-      "volume_ratio": 0.85,
+      "volume_ratio": 0.86,
       "trend_score": 40.0,
       "learning_bonus": 0.0,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
@@ -65,7 +65,7 @@
       "rsi14": 70.91,
       "momentum_20d": 8.64,
       "momentum_60d": 9.63,
-      "volume_ratio": 2.23,
+      "volume_ratio": 2.28,
       "trend_score": 40.0,
       "learning_bonus": 0.0,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
@@ -78,7 +78,7 @@
       "rsi14": 47.86,
       "momentum_20d": 0.89,
       "momentum_60d": 23.61,
-      "volume_ratio": 1.37,
+      "volume_ratio": 1.39,
       "trend_score": 32.0,
       "learning_bonus": 0.0,
       "reason": "above 20-day trend, above 50-day trend, medium trend rising, positive 20-day momentum, positive 60-day momentum"
@@ -91,7 +91,7 @@
       "rsi14": 50.24,
       "momentum_20d": 3.13,
       "momentum_60d": 31.7,
-      "volume_ratio": 1.54,
+      "volume_ratio": 1.56,
       "trend_score": 28.0,
       "learning_bonus": 0.0,
       "reason": "above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum, positive 60-day momentum"
@@ -104,7 +104,7 @@
       "rsi14": 46.25,
       "momentum_20d": 6.39,
       "momentum_60d": 15.16,
-      "volume_ratio": 1.72,
+      "volume_ratio": 1.75,
       "trend_score": 28.0,
       "learning_bonus": 0.0,
       "reason": "above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum, positive 60-day momentum"
@@ -117,20 +117,20 @@
       "rsi14": 83.46,
       "momentum_20d": 11.39,
       "momentum_60d": 19.89,
-      "volume_ratio": 1.42,
+      "volume_ratio": 1.43,
       "trend_score": 40.0,
       "learning_bonus": 0.0,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
     },
     {
-      "symbol": "LLY",
-      "score": 73.43,
+      "symbol": "SPY",
+      "score": 74.58,
       "recommendation": "Watch / Buy Candidate",
-      "close": 1105.0,
-      "rsi14": 79.98,
-      "momentum_20d": 14.71,
-      "momentum_60d": 12.38,
-      "volume_ratio": 1.35,
+      "close": 756.48,
+      "rsi14": 68.77,
+      "momentum_20d": 4.97,
+      "momentum_60d": 11.03,
+      "volume_ratio": 1.17,
       "trend_score": 40.0,
       "learning_bonus": 0.0,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
