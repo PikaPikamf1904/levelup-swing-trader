@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 5706.540000000001,
+  "cash": 4580.450000000001,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -46,13 +46,6 @@
       "entry_score": 84.47
     },
     {
-      "symbol": "TSLA",
-      "entry_date": "2026-05-29",
-      "entry_price": 435.79,
-      "shares": 27,
-      "entry_score": 82.58
-    },
-    {
       "symbol": "AMD",
       "entry_date": "2026-05-29",
       "entry_price": 516.1,
@@ -67,13 +60,6 @@
       "entry_score": 78.87
     },
     {
-      "symbol": "AMZN",
-      "entry_date": "2026-05-29",
-      "entry_price": 270.64,
-      "shares": 44,
-      "entry_score": 77.24
-    },
-    {
       "symbol": "UNH",
       "entry_date": "2026-05-29",
       "entry_price": 380.31,
@@ -86,7 +72,44 @@
       "entry_price": 211.14,
       "shares": 56,
       "entry_score": 76.05
+    },
+    {
+      "symbol": "AAPL",
+      "entry_date": "2026-06-02",
+      "entry_price": 306.31,
+      "shares": 39,
+      "entry_score": 79.29
+    },
+    {
+      "symbol": "LLY",
+      "entry_date": "2026-06-02",
+      "entry_price": 1082.2,
+      "shares": 11,
+      "entry_score": 75.09
     }
   ],
-  "closed_trades": []
+  "closed_trades": [
+    {
+      "symbol": "TSLA",
+      "entry_date": "2026-05-29",
+      "exit_date": "2026-06-02",
+      "entry_price": 435.79,
+      "exit_price": 415.88,
+      "shares": 27,
+      "pnl": -537.57,
+      "pnl_pct": -4.57,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "AMZN",
+      "entry_date": "2026-05-29",
+      "exit_date": "2026-06-02",
+      "entry_price": 270.64,
+      "exit_price": 261.26,
+      "shares": 44,
+      "pnl": -412.72,
+      "pnl_pct": -3.47,
+      "reason": "score breakdown"
+    }
+  ]
 }
