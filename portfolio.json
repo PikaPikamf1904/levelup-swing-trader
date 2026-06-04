@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 16295.970000000001,
+  "cash": 17008.370000000003,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -60,13 +60,6 @@
       "entry_score": 78.87
     },
     {
-      "symbol": "NVDA",
-      "entry_date": "2026-05-29",
-      "entry_price": 211.14,
-      "shares": 56,
-      "entry_score": 76.05
-    },
-    {
       "symbol": "AAPL",
       "entry_date": "2026-06-02",
       "entry_price": 306.31,
@@ -79,6 +72,13 @@
       "entry_price": 1082.2,
       "shares": 11,
       "entry_score": 75.09
+    },
+    {
+      "symbol": "SPY",
+      "entry_date": "2026-06-04",
+      "entry_price": 754.24,
+      "shares": 15,
+      "entry_score": 72.72
     }
   ],
   "closed_trades": [
@@ -113,6 +113,17 @@
       "shares": 31,
       "pnl": -74.09,
       "pnl_pct": -0.63,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "NVDA",
+      "entry_date": "2026-05-29",
+      "exit_date": "2026-06-04",
+      "entry_price": 211.14,
+      "exit_price": 214.75,
+      "shares": 56,
+      "pnl": 202.16,
+      "pnl_pct": 1.71,
       "reason": "score breakdown"
     }
   ]
