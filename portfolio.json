@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 17008.370000000003,
+  "cash": 16005.930000000002,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -39,13 +39,6 @@
       "entry_score": 88.07
     },
     {
-      "symbol": "AVGO",
-      "entry_date": "2026-05-29",
-      "entry_price": 446.77,
-      "shares": 26,
-      "entry_score": 84.47
-    },
-    {
       "symbol": "AMD",
       "entry_date": "2026-05-29",
       "entry_price": 516.1,
@@ -79,6 +72,13 @@
       "entry_price": 754.24,
       "shares": 15,
       "entry_score": 72.72
+    },
+    {
+      "symbol": "UNH",
+      "entry_date": "2026-06-05",
+      "entry_price": 396.47,
+      "shares": 30,
+      "entry_score": 85.8
     }
   ],
   "closed_trades": [
@@ -124,6 +124,17 @@
       "shares": 56,
       "pnl": 202.16,
       "pnl_pct": 1.71,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "AVGO",
+      "entry_date": "2026-05-29",
+      "exit_date": "2026-06-05",
+      "entry_price": 446.77,
+      "exit_price": 418.91,
+      "shares": 26,
+      "pnl": -724.36,
+      "pnl_pct": -6.24,
       "reason": "score breakdown"
     }
   ]
