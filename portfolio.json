@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 16005.930000000002,
+  "cash": 37566.090000000004,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -37,20 +37,6 @@
       "entry_price": 738.31,
       "shares": 16,
       "entry_score": 88.07
-    },
-    {
-      "symbol": "AMD",
-      "entry_date": "2026-05-29",
-      "entry_price": 516.1,
-      "shares": 23,
-      "entry_score": 80.0
-    },
-    {
-      "symbol": "MSFT",
-      "entry_date": "2026-05-29",
-      "entry_price": 450.24,
-      "shares": 26,
-      "entry_score": 78.87
     },
     {
       "symbol": "AAPL",
@@ -135,6 +121,28 @@
       "shares": 26,
       "pnl": -724.36,
       "pnl_pct": -6.24,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "AMD",
+      "entry_date": "2026-05-29",
+      "exit_date": "2026-06-06",
+      "entry_price": 516.1,
+      "exit_price": 466.38,
+      "shares": 23,
+      "pnl": -1143.56,
+      "pnl_pct": -9.63,
+      "reason": "stop loss"
+    },
+    {
+      "symbol": "MSFT",
+      "entry_date": "2026-05-29",
+      "exit_date": "2026-06-06",
+      "entry_price": 450.24,
+      "exit_price": 416.67,
+      "shares": 26,
+      "pnl": -872.82,
+      "pnl_pct": -7.46,
       "reason": "score breakdown"
     }
   ]
