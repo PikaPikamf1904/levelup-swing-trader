@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 25798.170000000006,
+  "cash": 37129.62000000001,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -37,13 +37,6 @@
       "entry_price": 738.31,
       "shares": 16,
       "entry_score": 88.07
-    },
-    {
-      "symbol": "AAPL",
-      "entry_date": "2026-06-02",
-      "entry_price": 306.31,
-      "shares": 39,
-      "entry_score": 79.29
     },
     {
       "symbol": "LLY",
@@ -150,6 +143,17 @@
       "shares": 26,
       "pnl": -872.82,
       "pnl_pct": -7.46,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "AAPL",
+      "entry_date": "2026-06-02",
+      "exit_date": "2026-06-10",
+      "entry_price": 306.31,
+      "exit_price": 290.55,
+      "shares": 39,
+      "pnl": -614.64,
+      "pnl_pct": -5.15,
       "reason": "score breakdown"
     }
   ]

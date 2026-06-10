@@ -1,61 +1,35 @@
 {
-  "date": "2026-06-09T01:31:43.522593+00:00",
-  "total_value": 96709.32,
-  "cash": 25798.17,
-  "invested": 70911.15,
-  "return_pct": -3.29,
+  "date": "2026-06-10T01:40:19.071376+00:00",
+  "total_value": 96068.52,
+  "cash": 37129.62,
+  "invested": 58938.9,
+  "return_pct": -3.93,
   "top_signals": [
     {
       "symbol": "LLY",
-      "score": 75.99,
-      "recommendation": "Watch / Buy Candidate",
-      "close": 1149.15,
-      "rsi14": 77.58,
-      "momentum_20d": 18.84,
-      "momentum_60d": 16.66,
-      "volume_ratio": 1.38,
+      "score": 88.44,
+      "recommendation": "Strong Watch / Sim Buy",
+      "close": 1144.68,
+      "rsi14": 73.43,
+      "momentum_20d": 15.64,
+      "momentum_60d": 15.73,
+      "volume_ratio": 1.15,
       "trend_score": 40.0,
       "learning_bonus": 0.0,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
     },
     {
       "symbol": "UNH",
-      "score": 75.74,
+      "score": 73.55,
       "recommendation": "Watch / Buy Candidate",
-      "close": 406.57,
-      "rsi14": 61.03,
-      "momentum_20d": 5.76,
-      "momentum_60d": 44.13,
-      "volume_ratio": 0.85,
+      "close": 413.0,
+      "rsi14": 65.94,
+      "momentum_20d": 4.19,
+      "momentum_60d": 44.66,
+      "volume_ratio": 1.05,
       "trend_score": 32.0,
       "learning_bonus": -0.32,
       "reason": "above 20-day trend, above 50-day trend, medium trend rising, positive 20-day momentum, positive 60-day momentum"
-    },
-    {
-      "symbol": "AMD",
-      "score": 74.8,
-      "recommendation": "Watch / Buy Candidate",
-      "close": 490.33,
-      "rsi14": 62.93,
-      "momentum_20d": 6.87,
-      "momentum_60d": 153.54,
-      "volume_ratio": 0.76,
-      "trend_score": 40.0,
-      "learning_bonus": -4.82,
-      "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
-    },
-    {
-      "symbol": "AAPL",
-      "score": 74.57,
-      "recommendation": "Watch / Buy Candidate",
-      "close": 301.54,
-      "rsi14": 53.99,
-      "momentum_20d": 3.03,
-      "momentum_60d": 20.56,
-      "volume_ratio": 1.57,
-      "trend_score": 28.0,
-      "learning_bonus": 0.0,
-      "reason": "above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum, positive 60-day momentum"
     },
     {
       "symbol": "QQQ",
@@ -71,30 +45,30 @@
       "reason": "above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum, positive 60-day momentum"
     },
     {
-      "symbol": "JPM",
-      "score": 65.04,
+      "symbol": "AMD",
+      "score": 69.68,
       "recommendation": "Neutral Watch",
-      "close": 311.11,
-      "rsi14": 60.67,
-      "momentum_20d": 3.7,
-      "momentum_60d": 9.76,
-      "volume_ratio": 0.77,
+      "close": 475.5,
+      "rsi14": 61.13,
+      "momentum_20d": 6.07,
+      "momentum_60d": 141.89,
+      "volume_ratio": 1.16,
+      "trend_score": 28.0,
+      "learning_bonus": -4.82,
+      "reason": "above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum, positive 60-day momentum"
+    },
+    {
+      "symbol": "JPM",
+      "score": 62.16,
+      "recommendation": "Neutral Watch",
+      "close": 312.7,
+      "rsi14": 68.8,
+      "momentum_20d": 2.56,
+      "momentum_60d": 9.27,
+      "volume_ratio": 1.3,
       "trend_score": 32.0,
       "learning_bonus": 0.0,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, positive 20-day momentum, positive 60-day momentum"
-    },
-    {
-      "symbol": "CRM",
-      "score": 57.33,
-      "recommendation": "Avoid",
-      "close": 182.55,
-      "rsi14": 52.11,
-      "momentum_20d": 2.85,
-      "momentum_60d": -5.33,
-      "volume_ratio": 0.72,
-      "trend_score": 40.0,
-      "learning_bonus": 0.0,
-      "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
     },
     {
       "symbol": "SPY",
@@ -110,30 +84,56 @@
       "reason": "above 50-day trend, short trend rising, medium trend rising, positive 60-day momentum, RSI in healthy swing zone"
     },
     {
-      "symbol": "MSFT",
-      "score": 34.5,
+      "symbol": "AAPL",
+      "score": 51.51,
       "recommendation": "Avoid",
-      "close": 411.74,
-      "rsi14": 44.92,
-      "momentum_20d": -0.22,
-      "momentum_60d": 4.09,
-      "volume_ratio": 0.84,
+      "close": 290.55,
+      "rsi14": 42.51,
+      "momentum_20d": -1.44,
+      "momentum_60d": 14.92,
+      "volume_ratio": 1.37,
       "trend_score": 28.0,
-      "learning_bonus": -3.73,
-      "reason": "above 50-day trend, short trend rising, medium trend rising, positive 60-day momentum, controlled volatility"
+      "learning_bonus": 0.0,
+      "reason": "above 50-day trend, short trend rising, medium trend rising, positive 60-day momentum, volume confirmation"
     },
     {
       "symbol": "AVGO",
-      "score": 29.31,
+      "score": 42.82,
       "recommendation": "Avoid",
-      "close": 396.6,
-      "rsi14": 43.8,
-      "momentum_20d": -7.43,
-      "momentum_60d": 23.11,
-      "volume_ratio": 1.29,
+      "close": 392.16,
+      "rsi14": 45.0,
+      "momentum_20d": -6.47,
+      "momentum_60d": 20.69,
+      "volume_ratio": 1.24,
       "trend_score": 16.0,
       "learning_bonus": -3.12,
-      "reason": "short trend rising, medium trend rising, positive 60-day momentum, volume confirmation"
+      "reason": "short trend rising, medium trend rising, positive 60-day momentum, RSI in healthy swing zone, volume confirmation"
+    },
+    {
+      "symbol": "NVDA",
+      "score": 35.33,
+      "recommendation": "Avoid",
+      "close": 208.19,
+      "rsi14": 40.11,
+      "momentum_20d": -5.7,
+      "momentum_60d": 13.63,
+      "volume_ratio": 1.01,
+      "trend_score": 20.0,
+      "learning_bonus": 4.86,
+      "reason": "above 50-day trend, medium trend rising, positive 60-day momentum, controlled volatility"
+    },
+    {
+      "symbol": "CRM",
+      "score": 29.51,
+      "recommendation": "Avoid",
+      "close": 175.35,
+      "rsi14": 47.45,
+      "momentum_20d": 2.36,
+      "momentum_60d": -11.59,
+      "volume_ratio": 0.98,
+      "trend_score": 16.0,
+      "learning_bonus": 0.0,
+      "reason": "short trend rising, medium trend rising, positive 20-day momentum, RSI in healthy swing zone"
     }
   ],
   "positions": [
@@ -148,24 +148,14 @@
       "score": 70.91
     },
     {
-      "symbol": "AAPL",
-      "shares": 39,
-      "entry": 306.31,
-      "current": 301.54,
-      "value": 11760.06,
-      "pnl": -186.03,
-      "pnl_pct": -1.56,
-      "score": 74.57
-    },
-    {
       "symbol": "LLY",
       "shares": 11,
       "entry": 1082.2,
-      "current": 1149.15,
-      "value": 12640.65,
-      "pnl": 736.45,
-      "pnl_pct": 6.19,
-      "score": 75.99
+      "current": 1144.68,
+      "value": 12591.48,
+      "pnl": 687.28,
+      "pnl_pct": 5.77,
+      "score": 88.44
     },
     {
       "symbol": "SPY",
@@ -181,21 +171,21 @@
       "symbol": "UNH",
       "shares": 30,
       "entry": 396.47,
-      "current": 406.57,
-      "value": 12197.1,
-      "pnl": 303.0,
-      "pnl_pct": 2.55,
-      "score": 75.74
+      "current": 413.0,
+      "value": 12390.0,
+      "pnl": 495.9,
+      "pnl_pct": 4.17,
+      "score": 73.55
     },
     {
       "symbol": "AMD",
       "shares": 24,
       "entry": 490.33,
-      "current": 490.33,
-      "value": 11767.92,
-      "pnl": 0.0,
-      "pnl_pct": 0.0,
-      "score": 74.8
+      "current": 475.5,
+      "value": 11412.0,
+      "pnl": -355.92,
+      "pnl_pct": -3.02,
+      "score": 69.68
     }
   ],
   "closed_trades": [
@@ -274,6 +264,17 @@
       "shares": 26,
       "pnl": -872.82,
       "pnl_pct": -7.46,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "AAPL",
+      "entry_date": "2026-06-02",
+      "exit_date": "2026-06-10",
+      "entry_price": 306.31,
+      "exit_price": 290.55,
+      "shares": 39,
+      "pnl": -614.64,
+      "pnl_pct": -5.15,
       "reason": "score breakdown"
     }
   ]
