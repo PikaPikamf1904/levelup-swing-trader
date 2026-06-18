@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 37129.62000000001,
+  "cash": 48244.02000000001,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -44,13 +44,6 @@
       "entry_price": 1082.2,
       "shares": 11,
       "entry_score": 75.09
-    },
-    {
-      "symbol": "SPY",
-      "entry_date": "2026-06-04",
-      "entry_price": 754.24,
-      "shares": 15,
-      "entry_score": 72.72
     },
     {
       "symbol": "UNH",
@@ -154,6 +147,17 @@
       "shares": 39,
       "pnl": -614.64,
       "pnl_pct": -5.15,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "SPY",
+      "entry_date": "2026-06-04",
+      "exit_date": "2026-06-18",
+      "entry_price": 754.24,
+      "exit_price": 740.96,
+      "shares": 15,
+      "pnl": -199.2,
+      "pnl_pct": -1.76,
       "reason": "score breakdown"
     }
   ]
