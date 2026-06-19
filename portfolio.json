@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 48244.02000000001,
+  "cash": 24755.460000000006,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -58,6 +58,20 @@
       "entry_price": 490.33,
       "shares": 24,
       "entry_score": 74.8
+    },
+    {
+      "symbol": "JPM",
+      "entry_date": "2026-06-19",
+      "entry_price": 325.22,
+      "shares": 36,
+      "entry_score": 77.32
+    },
+    {
+      "symbol": "V",
+      "entry_date": "2026-06-19",
+      "entry_price": 327.24,
+      "shares": 36,
+      "entry_score": 73.22
     }
   ],
   "closed_trades": [
