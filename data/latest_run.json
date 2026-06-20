@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-19T02:17:52.815441+00:00",
+  "date": "2026-06-20T01:39:47.165759+00:00",
   "total_value": 97103.89,
   "cash": 24755.46,
   "invested": 72348.43,
@@ -13,7 +13,7 @@
       "rsi14": 65.84,
       "momentum_20d": 4.83,
       "momentum_60d": 48.2,
-      "volume_ratio": 1.67,
+      "volume_ratio": 1.69,
       "trend_score": 40.0,
       "learning_bonus": -0.32,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
@@ -26,7 +26,7 @@
       "rsi14": 48.57,
       "momentum_20d": 5.46,
       "momentum_60d": 19.89,
-      "volume_ratio": 1.34,
+      "volume_ratio": 1.37,
       "trend_score": 28.0,
       "learning_bonus": 0.0,
       "reason": "above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum, positive 60-day momentum"
@@ -39,7 +39,7 @@
       "rsi14": 71.47,
       "momentum_20d": 7.33,
       "momentum_60d": 10.09,
-      "volume_ratio": 2.06,
+      "volume_ratio": 2.08,
       "trend_score": 40.0,
       "learning_bonus": 0.0,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
@@ -65,7 +65,7 @@
       "rsi14": 50.73,
       "momentum_20d": -1.17,
       "momentum_60d": 7.32,
-      "volume_ratio": 1.78,
+      "volume_ratio": 1.82,
       "trend_score": 40.0,
       "learning_bonus": 0.0,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 60-day momentum"
@@ -78,7 +78,7 @@
       "rsi14": 50.67,
       "momentum_20d": 3.65,
       "momentum_60d": 25.99,
-      "volume_ratio": 1.01,
+      "volume_ratio": 1.03,
       "trend_score": 32.0,
       "learning_bonus": 0.0,
       "reason": "above 20-day trend, above 50-day trend, medium trend rising, positive 20-day momentum, positive 60-day momentum"
@@ -91,7 +91,7 @@
       "rsi14": 63.76,
       "momentum_20d": 6.53,
       "momentum_60d": 0.53,
-      "volume_ratio": 1.9,
+      "volume_ratio": 2.02,
       "trend_score": 32.0,
       "learning_bonus": 0.0,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, positive 20-day momentum, positive 60-day momentum"
@@ -104,7 +104,7 @@
       "rsi14": 49.71,
       "momentum_20d": -4.02,
       "momentum_60d": 17.91,
-      "volume_ratio": 1.36,
+      "volume_ratio": 1.37,
       "trend_score": 20.0,
       "learning_bonus": 4.86,
       "reason": "above 50-day trend, medium trend rising, positive 60-day momentum, RSI in healthy swing zone, volume confirmation"
@@ -117,7 +117,7 @@
       "rsi14": 42.57,
       "momentum_20d": -5.06,
       "momentum_60d": 26.5,
-      "volume_ratio": 1.35,
+      "volume_ratio": 1.36,
       "trend_score": 20.0,
       "learning_bonus": 0.0,
       "reason": "above 50-day trend, medium trend rising, positive 60-day momentum, volume confirmation, controlled volatility"
@@ -130,7 +130,7 @@
       "rsi14": 44.89,
       "momentum_20d": 0.54,
       "momentum_60d": 13.69,
-      "volume_ratio": 1.28,
+      "volume_ratio": 1.38,
       "trend_score": 20.0,
       "learning_bonus": -0.88,
       "reason": "above 50-day trend, medium trend rising, positive 20-day momentum, positive 60-day momentum, volume confirmation"
