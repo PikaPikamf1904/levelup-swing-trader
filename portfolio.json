@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 24755.460000000006,
+  "cash": 36173.86000000001,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -31,13 +31,6 @@
     "SPY"
   ],
   "positions": [
-    {
-      "symbol": "QQQ",
-      "entry_date": "2026-05-29",
-      "entry_price": 738.31,
-      "shares": 16,
-      "entry_score": 88.07
-    },
     {
       "symbol": "LLY",
       "entry_date": "2026-06-02",
@@ -172,6 +165,17 @@
       "shares": 15,
       "pnl": -199.2,
       "pnl_pct": -1.76,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "QQQ",
+      "entry_date": "2026-05-29",
+      "exit_date": "2026-06-24",
+      "entry_price": 738.31,
+      "exit_price": 713.65,
+      "shares": 16,
+      "pnl": -394.56,
+      "pnl_pct": -3.34,
       "reason": "score breakdown"
     }
   ]
