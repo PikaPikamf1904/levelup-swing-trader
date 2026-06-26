@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 36173.86000000001,
+  "cash": 24443.860000000008,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -65,6 +65,13 @@
       "entry_price": 327.24,
       "shares": 36,
       "entry_score": 73.22
+    },
+    {
+      "symbol": "HD",
+      "entry_date": "2026-06-26",
+      "entry_price": 345.0,
+      "shares": 34,
+      "entry_score": 74.31
     }
   ],
   "closed_trades": [
