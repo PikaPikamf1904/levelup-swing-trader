@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 13748.450000000015,
+  "cash": 25099.330000000016,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -65,13 +65,6 @@
       "entry_price": 345.0,
       "shares": 34,
       "entry_score": 74.31
-    },
-    {
-      "symbol": "QQQ",
-      "entry_date": "2026-07-01",
-      "entry_price": 736.4,
-      "shares": 16,
-      "entry_score": 73.02
     },
     {
       "symbol": "AMD",
@@ -213,6 +206,17 @@
       "pnl": -1261.8,
       "pnl_pct": -10.86,
       "reason": "stop loss"
+    },
+    {
+      "symbol": "QQQ",
+      "entry_date": "2026-07-01",
+      "exit_date": "2026-07-08",
+      "entry_price": 736.4,
+      "exit_price": 709.43,
+      "shares": 16,
+      "pnl": -431.52,
+      "pnl_pct": -3.66,
+      "reason": "score breakdown"
     }
   ]
 }
