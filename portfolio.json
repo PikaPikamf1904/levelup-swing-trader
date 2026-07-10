@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 13190.510000000017,
+  "cash": 1680.1100000000151,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -79,6 +79,13 @@
       "entry_price": 313.39,
       "shares": 38,
       "entry_score": 74.97
+    },
+    {
+      "symbol": "MA",
+      "entry_date": "2026-07-10",
+      "entry_price": 523.2,
+      "shares": 22,
+      "entry_score": 72.94
     }
   ],
   "closed_trades": [
