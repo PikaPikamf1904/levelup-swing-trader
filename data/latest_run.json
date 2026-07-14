@@ -1,10 +1,23 @@
 {
-  "date": "2026-07-11T00:59:49.971798+00:00",
-  "total_value": 99127.26,
+  "date": "2026-07-14T00:17:40.510801+00:00",
+  "total_value": 98635.57,
   "cash": 1680.11,
-  "invested": 97447.15,
-  "return_pct": -0.87,
+  "invested": 96955.46,
+  "return_pct": -1.36,
   "top_signals": [
+    {
+      "symbol": "AAPL",
+      "score": 84.29,
+      "recommendation": "Strong Watch / Sim Buy",
+      "close": 317.31,
+      "rsi14": 63.73,
+      "momentum_20d": 8.99,
+      "momentum_60d": 20.47,
+      "volume_ratio": 0.67,
+      "trend_score": 40.0,
+      "learning_bonus": -2.58,
+      "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
+    },
     {
       "symbol": "UNH",
       "score": 82.26,
@@ -19,40 +32,14 @@
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
     },
     {
-      "symbol": "AMD",
-      "score": 81.0,
-      "recommendation": "Strong Watch / Sim Buy",
-      "close": 557.89,
-      "rsi14": 53.37,
-      "momentum_20d": 14.22,
-      "momentum_60d": 116.14,
-      "volume_ratio": 0.68,
-      "trend_score": 40.0,
-      "learning_bonus": 1.0,
-      "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
-    },
-    {
-      "symbol": "AAPL",
-      "score": 79.75,
-      "recommendation": "Watch / Buy Candidate",
-      "close": 315.32,
-      "rsi14": 61.87,
-      "momentum_20d": 6.66,
-      "momentum_60d": 18.35,
-      "volume_ratio": 0.48,
-      "trend_score": 40.0,
-      "learning_bonus": -2.58,
-      "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
-    },
-    {
       "symbol": "LLY",
-      "score": 79.33,
-      "recommendation": "Watch / Buy Candidate",
-      "close": 1188.58,
-      "rsi14": 65.5,
-      "momentum_20d": 2.38,
-      "momentum_60d": 31.33,
-      "volume_ratio": 0.63,
+      "score": 82.04,
+      "recommendation": "Strong Watch / Sim Buy",
+      "close": 1181.87,
+      "rsi14": 63.59,
+      "momentum_20d": 4.31,
+      "momentum_60d": 30.74,
+      "volume_ratio": 0.66,
       "trend_score": 40.0,
       "learning_bonus": 0.0,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
@@ -68,6 +55,19 @@
       "volume_ratio": 0.58,
       "trend_score": 40.0,
       "learning_bonus": 0.0,
+      "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
+    },
+    {
+      "symbol": "AMD",
+      "score": 77.25,
+      "recommendation": "Watch / Buy Candidate",
+      "close": 534.39,
+      "rsi14": 47.25,
+      "momentum_20d": 4.46,
+      "momentum_60d": 92.05,
+      "volume_ratio": 0.76,
+      "trend_score": 40.0,
+      "learning_bonus": 1.0,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
     },
     {
@@ -124,13 +124,13 @@
     },
     {
       "symbol": "META",
-      "score": 64.82,
-      "recommendation": "Neutral Watch",
-      "close": 669.21,
-      "rsi14": 68.73,
-      "momentum_20d": 17.73,
-      "momentum_60d": -0.35,
-      "volume_ratio": 1.98,
+      "score": 55.51,
+      "recommendation": "Avoid",
+      "close": 656.73,
+      "rsi14": 68.98,
+      "momentum_20d": 15.83,
+      "momentum_60d": -2.98,
+      "volume_ratio": 0.93,
       "trend_score": 32.0,
       "learning_bonus": 0.0,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, positive 20-day momentum, strong but slightly extended"
@@ -141,11 +141,11 @@
       "symbol": "LLY",
       "shares": 11,
       "entry": 1082.2,
-      "current": 1188.58,
-      "value": 13074.38,
-      "pnl": 1170.18,
-      "pnl_pct": 9.83,
-      "score": 79.33
+      "current": 1181.87,
+      "value": 13000.57,
+      "pnl": 1096.37,
+      "pnl_pct": 9.21,
+      "score": 82.04
     },
     {
       "symbol": "UNH",
@@ -191,21 +191,21 @@
       "symbol": "AMD",
       "shares": 21,
       "entry": 552.05,
-      "current": 557.89,
-      "value": 11715.69,
-      "pnl": 122.64,
-      "pnl_pct": 1.06,
-      "score": 81.0
+      "current": 534.39,
+      "value": 11222.19,
+      "pnl": -370.86,
+      "pnl_pct": -3.2,
+      "score": 77.25
     },
     {
       "symbol": "AAPL",
       "shares": 38,
       "entry": 313.39,
-      "current": 315.32,
-      "value": 11982.16,
-      "pnl": 73.34,
-      "pnl_pct": 0.62,
-      "score": 79.75
+      "current": 317.31,
+      "value": 12057.78,
+      "pnl": 148.96,
+      "pnl_pct": 1.25,
+      "score": 84.29
     },
     {
       "symbol": "MA",
