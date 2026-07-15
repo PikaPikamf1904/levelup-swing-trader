@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 1680.1100000000151,
+  "cash": 13163.270000000015,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -58,13 +58,6 @@
       "entry_price": 327.24,
       "shares": 36,
       "entry_score": 73.22
-    },
-    {
-      "symbol": "HD",
-      "entry_date": "2026-06-26",
-      "entry_price": 345.0,
-      "shares": 34,
-      "entry_score": 74.31
     },
     {
       "symbol": "AMD",
@@ -230,6 +223,17 @@
       "shares": 16,
       "pnl": -431.52,
       "pnl_pct": -3.66,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "HD",
+      "entry_date": "2026-06-26",
+      "exit_date": "2026-07-15",
+      "entry_price": 345.0,
+      "exit_price": 337.74,
+      "shares": 34,
+      "pnl": -246.84,
+      "pnl_pct": -2.1,
       "reason": "score breakdown"
     }
   ]
