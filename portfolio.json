@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 13163.270000000015,
+  "cash": 23683.010000000017,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -58,13 +58,6 @@
       "entry_price": 327.24,
       "shares": 36,
       "entry_score": 73.22
-    },
-    {
-      "symbol": "AMD",
-      "entry_date": "2026-07-07",
-      "entry_price": 552.05,
-      "shares": 21,
-      "entry_score": 81.0
     },
     {
       "symbol": "AAPL",
@@ -235,6 +228,17 @@
       "pnl": -246.84,
       "pnl_pct": -2.1,
       "reason": "score breakdown"
+    },
+    {
+      "symbol": "AMD",
+      "entry_date": "2026-07-07",
+      "exit_date": "2026-07-17",
+      "entry_price": 552.05,
+      "exit_price": 500.94,
+      "shares": 21,
+      "pnl": -1073.31,
+      "pnl_pct": -9.26,
+      "reason": "stop loss"
     }
   ]
 }
