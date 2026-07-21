@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 23683.010000000017,
+  "cash": 12682.100000000015,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -31,13 +31,6 @@
     "SPY"
   ],
   "positions": [
-    {
-      "symbol": "LLY",
-      "entry_date": "2026-06-02",
-      "entry_price": 1082.2,
-      "shares": 11,
-      "entry_score": 75.09
-    },
     {
       "symbol": "UNH",
       "entry_date": "2026-06-05",
@@ -72,6 +65,20 @@
       "entry_price": 523.2,
       "shares": 22,
       "entry_score": 72.94
+    },
+    {
+      "symbol": "META",
+      "entry_date": "2026-07-21",
+      "entry_price": 645.85,
+      "shares": 18,
+      "entry_score": 72.99
+    },
+    {
+      "symbol": "CRM",
+      "entry_date": "2026-07-21",
+      "entry_price": 173.79,
+      "shares": 69,
+      "entry_score": 72.17
     }
   ],
   "closed_trades": [
@@ -239,6 +246,17 @@
       "pnl": -1073.31,
       "pnl_pct": -9.26,
       "reason": "stop loss"
+    },
+    {
+      "symbol": "LLY",
+      "entry_date": "2026-06-02",
+      "exit_date": "2026-07-21",
+      "entry_price": 1082.2,
+      "exit_price": 1146.9,
+      "shares": 11,
+      "pnl": 711.7,
+      "pnl_pct": 5.98,
+      "reason": "score breakdown"
     }
   ]
 }
