@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 12682.100000000015,
+  "cash": 24416.240000000013,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -72,13 +72,6 @@
       "entry_price": 645.85,
       "shares": 18,
       "entry_score": 72.99
-    },
-    {
-      "symbol": "CRM",
-      "entry_date": "2026-07-21",
-      "entry_price": 173.79,
-      "shares": 69,
-      "entry_score": 72.17
     }
   ],
   "closed_trades": [
@@ -256,6 +249,17 @@
       "shares": 11,
       "pnl": 711.7,
       "pnl_pct": 5.98,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "CRM",
+      "entry_date": "2026-07-21",
+      "exit_date": "2026-07-22",
+      "entry_price": 173.79,
+      "exit_price": 170.06,
+      "shares": 69,
+      "pnl": -257.37,
+      "pnl_pct": -2.15,
       "reason": "score breakdown"
     }
   ]
