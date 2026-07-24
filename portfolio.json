@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 24416.240000000013,
+  "cash": 47983.640000000014,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -46,13 +46,6 @@
       "entry_score": 77.32
     },
     {
-      "symbol": "V",
-      "entry_date": "2026-06-19",
-      "entry_price": 327.24,
-      "shares": 36,
-      "entry_score": 73.22
-    },
-    {
       "symbol": "AAPL",
       "entry_date": "2026-07-09",
       "entry_price": 313.39,
@@ -65,13 +58,6 @@
       "entry_price": 523.2,
       "shares": 22,
       "entry_score": 72.94
-    },
-    {
-      "symbol": "META",
-      "entry_date": "2026-07-21",
-      "entry_price": 645.85,
-      "shares": 18,
-      "entry_score": 72.99
     }
   ],
   "closed_trades": [
@@ -260,6 +246,28 @@
       "shares": 69,
       "pnl": -257.37,
       "pnl_pct": -2.15,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "V",
+      "entry_date": "2026-06-19",
+      "exit_date": "2026-07-24",
+      "entry_price": 327.24,
+      "exit_price": 351.6,
+      "shares": 36,
+      "pnl": 876.96,
+      "pnl_pct": 7.44,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "META",
+      "entry_date": "2026-07-21",
+      "exit_date": "2026-07-24",
+      "entry_price": 645.85,
+      "exit_price": 606.1,
+      "shares": 18,
+      "pnl": -715.5,
+      "pnl_pct": -6.15,
       "reason": "score breakdown"
     }
   ]
