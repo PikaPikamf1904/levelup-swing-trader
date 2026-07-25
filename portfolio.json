@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 47983.640000000014,
+  "cash": 24283.920000000016,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -58,6 +58,20 @@
       "entry_price": 523.2,
       "shares": 22,
       "entry_score": 72.94
+    },
+    {
+      "symbol": "V",
+      "entry_date": "2026-07-25",
+      "entry_price": 355.74,
+      "shares": 33,
+      "entry_score": 81.58
+    },
+    {
+      "symbol": "LLY",
+      "entry_date": "2026-07-25",
+      "entry_price": 1196.03,
+      "shares": 10,
+      "entry_score": 73.99
     }
   ],
   "closed_trades": [
