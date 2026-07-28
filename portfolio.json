@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 24283.920000000016,
+  "cash": 24834.720000000016,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -31,13 +31,6 @@
     "SPY"
   ],
   "positions": [
-    {
-      "symbol": "UNH",
-      "entry_date": "2026-06-05",
-      "entry_price": 396.47,
-      "shares": 30,
-      "entry_score": 85.8
-    },
     {
       "symbol": "JPM",
       "entry_date": "2026-06-19",
@@ -71,6 +64,13 @@
       "entry_date": "2026-07-25",
       "entry_price": 1196.03,
       "shares": 10,
+      "entry_score": 73.99
+    },
+    {
+      "symbol": "CRM",
+      "entry_date": "2026-07-28",
+      "entry_price": 173.6,
+      "shares": 69,
       "entry_score": 73.99
     }
   ],
@@ -282,6 +282,17 @@
       "shares": 18,
       "pnl": -715.5,
       "pnl_pct": -6.15,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "UNH",
+      "entry_date": "2026-06-05",
+      "exit_date": "2026-07-28",
+      "entry_price": 396.47,
+      "exit_price": 417.64,
+      "shares": 30,
+      "pnl": 635.1,
+      "pnl_pct": 5.34,
       "reason": "score breakdown"
     }
   ]
