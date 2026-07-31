@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 24834.720000000016,
+  "cash": 36384.42000000001,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -58,13 +58,6 @@
       "entry_price": 355.74,
       "shares": 33,
       "entry_score": 81.58
-    },
-    {
-      "symbol": "LLY",
-      "entry_date": "2026-07-25",
-      "entry_price": 1196.03,
-      "shares": 10,
-      "entry_score": 73.99
     },
     {
       "symbol": "CRM",
@@ -293,6 +286,17 @@
       "shares": 30,
       "pnl": 635.1,
       "pnl_pct": 5.34,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "LLY",
+      "entry_date": "2026-07-25",
+      "exit_date": "2026-07-31",
+      "entry_price": 1196.03,
+      "exit_price": 1154.97,
+      "shares": 10,
+      "pnl": -410.6,
+      "pnl_pct": -3.43,
       "reason": "score breakdown"
     }
   ]
