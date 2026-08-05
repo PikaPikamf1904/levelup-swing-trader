@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 48123.000000000015,
+  "cash": 36193.94000000002,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -58,6 +58,13 @@
       "entry_price": 173.6,
       "shares": 69,
       "entry_score": 73.99
+    },
+    {
+      "symbol": "AMZN",
+      "entry_date": "2026-08-05",
+      "entry_price": 277.42,
+      "shares": 43,
+      "entry_score": 73.3
     }
   ],
   "closed_trades": [
