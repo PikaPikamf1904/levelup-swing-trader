@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 36193.94000000002,
+  "cash": 12658.070000000018,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -65,6 +65,20 @@
       "entry_price": 277.42,
       "shares": 43,
       "entry_score": 73.3
+    },
+    {
+      "symbol": "PLTR",
+      "entry_date": "2026-08-06",
+      "entry_price": 158.43,
+      "shares": 75,
+      "entry_score": 83.44
+    },
+    {
+      "symbol": "HD",
+      "entry_date": "2026-08-06",
+      "entry_price": 353.14,
+      "shares": 33,
+      "entry_score": 74.95
     }
   ],
   "closed_trades": [
