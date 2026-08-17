@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 738.6700000000164,
+  "cash": 23720.310000000016,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -72,20 +72,6 @@
       "entry_price": 158.43,
       "shares": 75,
       "entry_score": 83.44
-    },
-    {
-      "symbol": "HD",
-      "entry_date": "2026-08-06",
-      "entry_price": 353.14,
-      "shares": 33,
-      "entry_score": 74.95
-    },
-    {
-      "symbol": "LLY",
-      "entry_date": "2026-08-07",
-      "entry_price": 1191.94,
-      "shares": 10,
-      "entry_score": 85.28
     }
   ],
   "closed_trades": [
@@ -329,6 +315,28 @@
       "shares": 38,
       "pnl": -170.24,
       "pnl_pct": -1.43,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "HD",
+      "entry_date": "2026-08-06",
+      "exit_date": "2026-08-17",
+      "entry_price": 353.14,
+      "exit_price": 337.88,
+      "shares": 33,
+      "pnl": -503.58,
+      "pnl_pct": -4.32,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "LLY",
+      "entry_date": "2026-08-07",
+      "exit_date": "2026-08-17",
+      "entry_price": 1191.94,
+      "exit_price": 1183.16,
+      "shares": 10,
+      "pnl": -87.8,
+      "pnl_pct": -0.74,
       "reason": "score breakdown"
     }
   ]
