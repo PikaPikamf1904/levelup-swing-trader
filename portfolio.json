@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 12688.740000000016,
+  "cash": 3249.530000000019,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -53,13 +53,6 @@
       "entry_score": 81.58
     },
     {
-      "symbol": "CRM",
-      "entry_date": "2026-07-28",
-      "entry_price": 173.6,
-      "shares": 69,
-      "entry_score": 73.99
-    },
-    {
       "symbol": "AMZN",
       "entry_date": "2026-08-05",
       "entry_price": 277.42,
@@ -79,6 +72,20 @@
       "entry_price": 1225.73,
       "shares": 9,
       "entry_score": 80.25
+    },
+    {
+      "symbol": "HD",
+      "entry_date": "2026-08-19",
+      "entry_price": 344.3,
+      "shares": 34,
+      "entry_score": 83.37
+    },
+    {
+      "symbol": "CRM",
+      "entry_date": "2026-08-19",
+      "entry_price": 206.09,
+      "shares": 58,
+      "entry_score": 80.98
     }
   ],
   "closed_trades": [
@@ -345,6 +352,17 @@
       "pnl": -87.8,
       "pnl_pct": -0.74,
       "reason": "score breakdown"
+    },
+    {
+      "symbol": "CRM",
+      "entry_date": "2026-07-28",
+      "exit_date": "2026-08-19",
+      "entry_price": 173.6,
+      "exit_price": 206.09,
+      "shares": 69,
+      "pnl": 2241.81,
+      "pnl_pct": 18.72,
+      "reason": "take profit"
     }
   ]
 }
