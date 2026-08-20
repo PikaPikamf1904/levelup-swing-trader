@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 3249.530000000019,
+  "cash": 2332.5700000000215,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -53,13 +53,6 @@
       "entry_score": 81.58
     },
     {
-      "symbol": "AMZN",
-      "entry_date": "2026-08-05",
-      "entry_price": 277.42,
-      "shares": 43,
-      "entry_score": 73.3
-    },
-    {
       "symbol": "PLTR",
       "entry_date": "2026-08-06",
       "entry_price": 158.43,
@@ -74,18 +67,25 @@
       "entry_score": 80.25
     },
     {
-      "symbol": "HD",
-      "entry_date": "2026-08-19",
-      "entry_price": 344.3,
-      "shares": 34,
-      "entry_score": 83.37
-    },
-    {
       "symbol": "CRM",
       "entry_date": "2026-08-19",
       "entry_price": 206.09,
       "shares": 58,
       "entry_score": 80.98
+    },
+    {
+      "symbol": "MSFT",
+      "entry_date": "2026-08-20",
+      "entry_price": 481.15,
+      "shares": 24,
+      "entry_score": 80.23
+    },
+    {
+      "symbol": "NVDA",
+      "entry_date": "2026-08-20",
+      "entry_price": 216.85,
+      "shares": 55,
+      "entry_score": 74.83
     }
   ],
   "closed_trades": [
@@ -363,6 +363,28 @@
       "pnl": 2241.81,
       "pnl_pct": 18.72,
       "reason": "take profit"
+    },
+    {
+      "symbol": "AMZN",
+      "entry_date": "2026-08-05",
+      "exit_date": "2026-08-20",
+      "entry_price": 277.42,
+      "exit_price": 260.11,
+      "shares": 43,
+      "pnl": -744.33,
+      "pnl_pct": -6.24,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "HD",
+      "entry_date": "2026-08-19",
+      "exit_date": "2026-08-20",
+      "entry_price": 344.3,
+      "exit_price": 334.49,
+      "shares": 34,
+      "pnl": -333.54,
+      "pnl_pct": -2.85,
+      "reason": "score breakdown"
     }
   ]
 }
