@@ -1,34 +1,21 @@
 {
-  "date": "2026-08-21T23:50:05.148230+00:00",
-  "total_value": 100340.95,
+  "date": "2026-08-24T23:48:07.439848+00:00",
+  "total_value": 99785.3,
   "cash": 2332.57,
-  "invested": 98008.38,
-  "return_pct": 0.34,
+  "invested": 97452.73,
+  "return_pct": -0.21,
   "top_signals": [
     {
       "symbol": "CRM",
-      "score": 97.38,
+      "score": 91.78,
       "recommendation": "Strong Watch / Sim Buy",
-      "close": 209.17,
-      "rsi14": 67.55,
-      "momentum_20d": 20.49,
-      "momentum_60d": 18.73,
-      "volume_ratio": 0.75,
+      "close": 209.06,
+      "rsi14": 64.76,
+      "momentum_20d": 15.18,
+      "momentum_60d": 9.4,
+      "volume_ratio": 0.68,
       "trend_score": 40.0,
       "learning_bonus": 6.14,
-      "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
-    },
-    {
-      "symbol": "NVDA",
-      "score": 79.97,
-      "recommendation": "Watch / Buy Candidate",
-      "close": 214.72,
-      "rsi14": 59.48,
-      "momentum_20d": 9.27,
-      "momentum_60d": 0.22,
-      "volume_ratio": 0.84,
-      "trend_score": 40.0,
-      "learning_bonus": 4.86,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
     },
     {
@@ -46,13 +33,13 @@
     },
     {
       "symbol": "MSFT",
-      "score": 78.17,
+      "score": 75.21,
       "recommendation": "Watch / Buy Candidate",
-      "close": 483.24,
-      "rsi14": 46.98,
-      "momentum_20d": 24.19,
-      "momentum_60d": 13.17,
-      "volume_ratio": 0.58,
+      "close": 487.31,
+      "rsi14": 46.17,
+      "momentum_20d": 23.89,
+      "momentum_60d": 8.23,
+      "volume_ratio": 0.43,
       "trend_score": 40.0,
       "learning_bonus": -3.73,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
@@ -69,6 +56,32 @@
       "trend_score": 32.0,
       "learning_bonus": 7.72,
       "reason": "above 20-day trend, above 50-day trend, medium trend rising, positive 20-day momentum, positive 60-day momentum"
+    },
+    {
+      "symbol": "PLTR",
+      "score": 73.42,
+      "recommendation": "Watch / Buy Candidate",
+      "close": 175.89,
+      "rsi14": 60.92,
+      "momentum_20d": 42.39,
+      "momentum_60d": 12.36,
+      "volume_ratio": 0.73,
+      "trend_score": 40.0,
+      "learning_bonus": 0.0,
+      "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
+    },
+    {
+      "symbol": "NVDA",
+      "score": 70.38,
+      "recommendation": "Neutral Watch",
+      "close": 208.48,
+      "rsi14": 46.03,
+      "momentum_20d": 5.82,
+      "momentum_60d": -1.26,
+      "volume_ratio": 1.14,
+      "trend_score": 28.0,
+      "learning_bonus": 4.86,
+      "reason": "above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum, RSI in healthy swing zone"
     },
     {
       "symbol": "LLY",
@@ -97,19 +110,6 @@
       "reason": "above 50-day trend, short trend rising, medium trend rising, positive 60-day momentum, RSI in healthy swing zone"
     },
     {
-      "symbol": "NFLX",
-      "score": 67.08,
-      "recommendation": "Neutral Watch",
-      "close": 79.59,
-      "rsi14": 68.26,
-      "momentum_20d": 13.05,
-      "momentum_60d": -7.84,
-      "volume_ratio": 0.7,
-      "trend_score": 40.0,
-      "learning_bonus": 0.0,
-      "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
-    },
-    {
       "symbol": "SPY",
       "score": 67.05,
       "recommendation": "Neutral Watch",
@@ -123,14 +123,14 @@
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
     },
     {
-      "symbol": "PLTR",
-      "score": 58.0,
-      "recommendation": "Avoid",
-      "close": 179.94,
-      "rsi14": 79.02,
-      "momentum_20d": 36.81,
-      "momentum_60d": 25.53,
-      "volume_ratio": 0.86,
+      "symbol": "NFLX",
+      "score": 64.24,
+      "recommendation": "Neutral Watch",
+      "close": 80.01,
+      "rsi14": 68.59,
+      "momentum_20d": 10.53,
+      "momentum_60d": -6.99,
+      "volume_ratio": 0.64,
       "trend_score": 40.0,
       "learning_bonus": 0.0,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
@@ -171,11 +171,11 @@
       "symbol": "PLTR",
       "shares": 75,
       "entry": 158.43,
-      "current": 179.94,
-      "value": 13495.5,
-      "pnl": 1613.25,
-      "pnl_pct": 13.58,
-      "score": 58.0
+      "current": 175.89,
+      "value": 13191.75,
+      "pnl": 1309.5,
+      "pnl_pct": 11.02,
+      "score": 73.42
     },
     {
       "symbol": "LLY",
@@ -191,31 +191,31 @@
       "symbol": "CRM",
       "shares": 58,
       "entry": 206.09,
-      "current": 209.17,
-      "value": 12131.86,
-      "pnl": 178.64,
-      "pnl_pct": 1.49,
-      "score": 97.38
+      "current": 209.06,
+      "value": 12125.48,
+      "pnl": 172.26,
+      "pnl_pct": 1.44,
+      "score": 91.78
     },
     {
       "symbol": "MSFT",
       "shares": 24,
       "entry": 481.15,
-      "current": 483.24,
-      "value": 11597.76,
-      "pnl": 50.16,
-      "pnl_pct": 0.43,
-      "score": 78.17
+      "current": 487.31,
+      "value": 11695.44,
+      "pnl": 147.84,
+      "pnl_pct": 1.28,
+      "score": 75.21
     },
     {
       "symbol": "NVDA",
       "shares": 55,
       "entry": 216.85,
-      "current": 214.72,
-      "value": 11809.6,
-      "pnl": -117.15,
-      "pnl_pct": -0.98,
-      "score": 79.97
+      "current": 208.48,
+      "value": 11466.4,
+      "pnl": -460.35,
+      "pnl_pct": -3.86,
+      "score": 70.38
     }
   ],
   "closed_trades": [
