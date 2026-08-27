@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 2332.5700000000215,
+  "cash": 13863.87000000002,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -79,13 +79,6 @@
       "entry_price": 481.15,
       "shares": 24,
       "entry_score": 80.23
-    },
-    {
-      "symbol": "NVDA",
-      "entry_date": "2026-08-20",
-      "entry_price": 216.85,
-      "shares": 55,
-      "entry_score": 74.83
     }
   ],
   "closed_trades": [
@@ -384,6 +377,17 @@
       "shares": 34,
       "pnl": -333.54,
       "pnl_pct": -2.85,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "NVDA",
+      "entry_date": "2026-08-20",
+      "exit_date": "2026-08-27",
+      "entry_price": 216.85,
+      "exit_price": 209.66,
+      "shares": 55,
+      "pnl": -395.45,
+      "pnl_pct": -3.32,
       "reason": "score breakdown"
     }
   ]
