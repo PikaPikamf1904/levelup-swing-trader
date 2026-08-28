@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 13863.87000000002,
+  "cash": 27988.630000000026,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -32,13 +32,6 @@
   ],
   "positions": [
     {
-      "symbol": "JPM",
-      "entry_date": "2026-06-19",
-      "entry_price": 325.22,
-      "shares": 36,
-      "entry_score": 77.32
-    },
-    {
       "symbol": "MA",
       "entry_date": "2026-07-10",
       "entry_price": 523.2,
@@ -60,25 +53,25 @@
       "entry_score": 83.44
     },
     {
-      "symbol": "LLY",
-      "entry_date": "2026-08-18",
-      "entry_price": 1225.73,
-      "shares": 9,
-      "entry_score": 80.25
-    },
-    {
-      "symbol": "CRM",
-      "entry_date": "2026-08-19",
-      "entry_price": 206.09,
-      "shares": 58,
-      "entry_score": 80.98
-    },
-    {
       "symbol": "MSFT",
       "entry_date": "2026-08-20",
       "entry_price": 481.15,
       "shares": 24,
       "entry_score": 80.23
+    },
+    {
+      "symbol": "NVDA",
+      "entry_date": "2026-08-28",
+      "entry_price": 227.98,
+      "shares": 52,
+      "entry_score": 93.3
+    },
+    {
+      "symbol": "NFLX",
+      "entry_date": "2026-08-28",
+      "entry_price": 79.84,
+      "shares": 150,
+      "entry_score": 76.84
     }
   ],
   "closed_trades": [
@@ -389,6 +382,39 @@
       "pnl": -395.45,
       "pnl_pct": -3.32,
       "reason": "score breakdown"
+    },
+    {
+      "symbol": "JPM",
+      "entry_date": "2026-06-19",
+      "exit_date": "2026-08-28",
+      "entry_price": 325.22,
+      "exit_price": 354.22,
+      "shares": 36,
+      "pnl": 1044.0,
+      "pnl_pct": 8.92,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "LLY",
+      "entry_date": "2026-08-18",
+      "exit_date": "2026-08-28",
+      "entry_price": 1225.73,
+      "exit_price": 1176.1,
+      "shares": 9,
+      "pnl": -446.67,
+      "pnl_pct": -4.05,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "CRM",
+      "entry_date": "2026-08-19",
+      "exit_date": "2026-08-28",
+      "entry_price": 206.09,
+      "exit_price": 252.05,
+      "shares": 58,
+      "pnl": 2665.68,
+      "pnl_pct": 22.3,
+      "reason": "take profit"
     }
   ]
 }
