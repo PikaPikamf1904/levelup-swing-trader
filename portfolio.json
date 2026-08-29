@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 27988.630000000026,
+  "cash": 16212.630000000026,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -72,6 +72,13 @@
       "entry_price": 79.84,
       "shares": 150,
       "entry_score": 76.84
+    },
+    {
+      "symbol": "CRM",
+      "entry_date": "2026-08-29",
+      "entry_price": 256.0,
+      "shares": 46,
+      "entry_score": 74.67
     }
   ],
   "closed_trades": [
