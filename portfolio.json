@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 4438.230000000027,
+  "cash": 27139.990000000027,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -60,13 +60,6 @@
       "entry_score": 80.23
     },
     {
-      "symbol": "NVDA",
-      "entry_date": "2026-08-28",
-      "entry_price": 227.98,
-      "shares": 52,
-      "entry_score": 93.3
-    },
-    {
       "symbol": "NFLX",
       "entry_date": "2026-08-28",
       "entry_price": 79.84,
@@ -79,13 +72,6 @@
       "entry_price": 256.0,
       "shares": 46,
       "entry_score": 74.67
-    },
-    {
-      "symbol": "TSLA",
-      "entry_date": "2026-09-01",
-      "entry_price": 367.95,
-      "shares": 32,
-      "entry_score": 74.13
     }
   ],
   "closed_trades": [
@@ -429,6 +415,28 @@
       "pnl": 2665.68,
       "pnl_pct": 22.3,
       "reason": "take profit"
+    },
+    {
+      "symbol": "NVDA",
+      "entry_date": "2026-08-28",
+      "exit_date": "2026-09-02",
+      "entry_price": 227.98,
+      "exit_price": 217.44,
+      "shares": 52,
+      "pnl": -548.08,
+      "pnl_pct": -4.62,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "TSLA",
+      "entry_date": "2026-09-01",
+      "exit_date": "2026-09-02",
+      "entry_price": 367.95,
+      "exit_price": 356.09,
+      "shares": 32,
+      "pnl": -379.52,
+      "pnl_pct": -3.22,
+      "reason": "score breakdown"
     }
   ]
 }
