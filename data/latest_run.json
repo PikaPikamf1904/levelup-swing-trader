@@ -1,9 +1,9 @@
 {
-  "date": "2026-09-04T01:11:55.498375+00:00",
-  "total_value": 103021.27,
-  "cash": 3524.54,
-  "invested": 99496.73,
-  "return_pct": 3.02,
+  "date": "2026-09-05T01:15:03.530752+00:00",
+  "total_value": 100563.0,
+  "cash": 14501.02,
+  "invested": 86061.98,
+  "return_pct": 0.56,
   "top_signals": [
     {
       "symbol": "V",
@@ -32,58 +32,6 @@
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
     },
     {
-      "symbol": "NFLX",
-      "score": 78.6,
-      "recommendation": "Watch / Buy Candidate",
-      "close": 82.67,
-      "rsi14": 63.45,
-      "momentum_20d": 11.51,
-      "momentum_60d": 0.82,
-      "volume_ratio": 0.87,
-      "trend_score": 40.0,
-      "learning_bonus": 0.0,
-      "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
-    },
-    {
-      "symbol": "PLTR",
-      "score": 78.56,
-      "recommendation": "Watch / Buy Candidate",
-      "close": 182.53,
-      "rsi14": 56.61,
-      "momentum_20d": 6.12,
-      "momentum_60d": 40.18,
-      "volume_ratio": 1.06,
-      "trend_score": 40.0,
-      "learning_bonus": 0.0,
-      "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
-    },
-    {
-      "symbol": "TSLA",
-      "score": 77.37,
-      "recommendation": "Watch / Buy Candidate",
-      "close": 376.37,
-      "rsi14": 63.17,
-      "momentum_20d": 14.54,
-      "momentum_60d": -1.37,
-      "volume_ratio": 1.7,
-      "trend_score": 32.0,
-      "learning_bonus": -1.95,
-      "reason": "above 20-day trend, above 50-day trend, short trend rising, positive 20-day momentum, RSI in healthy swing zone"
-    },
-    {
-      "symbol": "MSFT",
-      "score": 75.11,
-      "recommendation": "Watch / Buy Candidate",
-      "close": 510.12,
-      "rsi14": 58.7,
-      "momentum_20d": 2.03,
-      "momentum_60d": 28.38,
-      "volume_ratio": 1.01,
-      "trend_score": 40.0,
-      "learning_bonus": -3.73,
-      "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
-    },
-    {
       "symbol": "JPM",
       "score": 74.51,
       "recommendation": "Watch / Buy Candidate",
@@ -97,43 +45,95 @@
       "reason": "above 20-day trend, above 50-day trend, medium trend rising, positive 20-day momentum, positive 60-day momentum"
     },
     {
-      "symbol": "META",
-      "score": 67.48,
+      "symbol": "MSFT",
+      "score": 71.01,
       "recommendation": "Neutral Watch",
-      "close": 610.68,
-      "rsi14": 57.71,
-      "momentum_20d": 3.14,
-      "momentum_60d": 6.95,
-      "volume_ratio": 1.2,
+      "close": 499.7,
+      "rsi14": 62.1,
+      "momentum_20d": -1.26,
+      "momentum_60d": 28.02,
+      "volume_ratio": 0.76,
+      "trend_score": 40.0,
+      "learning_bonus": -3.73,
+      "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 60-day momentum"
+    },
+    {
+      "symbol": "NVDA",
+      "score": 70.0,
+      "recommendation": "Neutral Watch",
+      "close": 230.36,
+      "rsi14": 53.68,
+      "momentum_20d": 5.89,
+      "momentum_60d": 12.44,
+      "volume_ratio": 1.02,
       "trend_score": 32.0,
-      "learning_bonus": -3.08,
-      "reason": "above 20-day trend, above 50-day trend, short trend rising, positive 20-day momentum, positive 60-day momentum"
+      "learning_bonus": 0.29,
+      "reason": "above 20-day trend, above 50-day trend, medium trend rising, positive 20-day momentum, positive 60-day momentum"
     },
     {
       "symbol": "CRM",
       "score": 66.67,
       "recommendation": "Neutral Watch",
-      "close": 264.43,
-      "rsi14": 88.12,
-      "momentum_20d": 37.2,
-      "momentum_60d": 54.71,
-      "volume_ratio": 0.91,
+      "close": 259.23,
+      "rsi14": 88.16,
+      "momentum_20d": 31.25,
+      "momentum_60d": 55.74,
+      "volume_ratio": 0.62,
       "trend_score": 40.0,
       "learning_bonus": 8.67,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
     },
     {
-      "symbol": "NVDA",
-      "score": 65.49,
+      "symbol": "SPY",
+      "score": 65.06,
       "recommendation": "Neutral Watch",
-      "close": 228.45,
-      "rsi14": 52.32,
-      "momentum_20d": 2.0,
-      "momentum_60d": 13.99,
-      "volume_ratio": 1.03,
+      "close": 773.17,
+      "rsi14": 46.87,
+      "momentum_20d": -0.01,
+      "momentum_60d": 6.58,
+      "volume_ratio": 1.11,
       "trend_score": 32.0,
-      "learning_bonus": 0.29,
-      "reason": "above 20-day trend, above 50-day trend, medium trend rising, positive 20-day momentum, positive 60-day momentum"
+      "learning_bonus": -0.88,
+      "reason": "above 20-day trend, above 50-day trend, medium trend rising, positive 60-day momentum, RSI in healthy swing zone"
+    },
+    {
+      "symbol": "AAPL",
+      "score": 62.61,
+      "recommendation": "Neutral Watch",
+      "close": 319.97,
+      "rsi14": 63.63,
+      "momentum_20d": 3.8,
+      "momentum_60d": 8.23,
+      "volume_ratio": 0.96,
+      "trend_score": 32.0,
+      "learning_bonus": -1.65,
+      "reason": "above 20-day trend, above 50-day trend, short trend rising, positive 20-day momentum, positive 60-day momentum"
+    },
+    {
+      "symbol": "NFLX",
+      "score": 59.74,
+      "recommendation": "Avoid",
+      "close": 78.25,
+      "rsi14": 55.85,
+      "momentum_20d": 2.57,
+      "momentum_60d": -3.72,
+      "volume_ratio": 1.41,
+      "trend_score": 28.0,
+      "learning_bonus": 0.0,
+      "reason": "above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum, RSI in healthy swing zone"
+    },
+    {
+      "symbol": "PLTR",
+      "score": 57.49,
+      "recommendation": "Avoid",
+      "close": 174.33,
+      "rsi14": 51.25,
+      "momentum_20d": -0.51,
+      "momentum_60d": 33.0,
+      "volume_ratio": 0.83,
+      "trend_score": 28.0,
+      "learning_bonus": 0.0,
+      "reason": "above 50-day trend, short trend rising, medium trend rising, positive 60-day momentum, RSI in healthy swing zone"
     }
   ],
   "positions": [
@@ -161,51 +161,41 @@
       "symbol": "PLTR",
       "shares": 75,
       "entry": 158.43,
-      "current": 182.53,
-      "value": 13689.75,
-      "pnl": 1807.5,
-      "pnl_pct": 15.21,
-      "score": 78.56
+      "current": 174.33,
+      "value": 13074.75,
+      "pnl": 1192.5,
+      "pnl_pct": 10.04,
+      "score": 57.49
     },
     {
       "symbol": "MSFT",
       "shares": 24,
       "entry": 481.15,
-      "current": 510.12,
-      "value": 12242.88,
-      "pnl": 695.28,
-      "pnl_pct": 6.02,
-      "score": 75.11
+      "current": 499.7,
+      "value": 11992.8,
+      "pnl": 445.2,
+      "pnl_pct": 3.86,
+      "score": 71.01
     },
     {
       "symbol": "NFLX",
       "shares": 150,
       "entry": 79.84,
-      "current": 82.67,
-      "value": 12400.5,
-      "pnl": 424.5,
-      "pnl_pct": 3.54,
-      "score": 78.6
+      "current": 78.25,
+      "value": 11737.5,
+      "pnl": -238.5,
+      "pnl_pct": -1.99,
+      "score": 59.74
     },
     {
       "symbol": "CRM",
       "shares": 46,
       "entry": 256.0,
-      "current": 264.43,
-      "value": 12163.78,
-      "pnl": 387.78,
-      "pnl_pct": 3.29,
+      "current": 259.23,
+      "value": 11924.58,
+      "pnl": 148.58,
+      "pnl_pct": 1.26,
       "score": 66.67
-    },
-    {
-      "symbol": "TSLA",
-      "shares": 31,
-      "entry": 376.37,
-      "current": 376.37,
-      "value": 11667.47,
-      "pnl": 0.0,
-      "pnl_pct": 0.0,
-      "score": 77.37
     },
     {
       "symbol": "JPM",
@@ -219,17 +209,6 @@
     }
   ],
   "closed_trades": [
-    {
-      "symbol": "HD",
-      "entry_date": "2026-06-26",
-      "exit_date": "2026-07-15",
-      "entry_price": 345.0,
-      "exit_price": 337.74,
-      "shares": 34,
-      "pnl": -246.84,
-      "pnl_pct": -2.1,
-      "reason": "score breakdown"
-    },
     {
       "symbol": "AMD",
       "entry_date": "2026-07-07",
@@ -437,6 +416,17 @@
       "shares": 32,
       "pnl": -379.52,
       "pnl_pct": -3.22,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "TSLA",
+      "entry_date": "2026-09-04",
+      "exit_date": "2026-09-05",
+      "entry_price": 376.37,
+      "exit_price": 354.08,
+      "shares": 31,
+      "pnl": -690.99,
+      "pnl_pct": -5.92,
       "reason": "score breakdown"
     }
   ]

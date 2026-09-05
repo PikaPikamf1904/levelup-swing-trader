@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 3524.540000000028,
+  "cash": 14501.020000000028,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -72,13 +72,6 @@
       "entry_price": 256.0,
       "shares": 46,
       "entry_score": 74.67
-    },
-    {
-      "symbol": "TSLA",
-      "entry_date": "2026-09-04",
-      "entry_price": 376.37,
-      "shares": 31,
-      "entry_score": 77.37
     },
     {
       "symbol": "JPM",
@@ -450,6 +443,17 @@
       "shares": 32,
       "pnl": -379.52,
       "pnl_pct": -3.22,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "TSLA",
+      "entry_date": "2026-09-04",
+      "exit_date": "2026-09-05",
+      "entry_price": 376.37,
+      "exit_price": 354.08,
+      "shares": 31,
+      "pnl": -690.99,
+      "pnl_pct": -5.92,
       "reason": "score breakdown"
     }
   ]
