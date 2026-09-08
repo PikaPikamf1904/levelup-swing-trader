@@ -1,48 +1,22 @@
 {
-  "date": "2026-09-05T01:15:03.530752+00:00",
-  "total_value": 100563.0,
+  "date": "2026-09-08T01:20:40.313419+00:00",
+  "total_value": 100185.7,
   "cash": 14501.02,
-  "invested": 86061.98,
-  "return_pct": 0.56,
+  "invested": 85684.68,
+  "return_pct": 0.19,
   "top_signals": [
     {
       "symbol": "V",
-      "score": 86.36,
+      "score": 85.58,
       "recommendation": "Strong Watch / Sim Buy",
-      "close": 378.75,
-      "rsi14": 64.03,
-      "momentum_20d": 4.48,
-      "momentum_60d": 17.27,
-      "volume_ratio": 0.58,
+      "close": 375.07,
+      "rsi14": 66.1,
+      "momentum_20d": 3.81,
+      "momentum_60d": 17.56,
+      "volume_ratio": 0.7,
       "trend_score": 40.0,
       "learning_bonus": 7.72,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
-    },
-    {
-      "symbol": "MA",
-      "score": 79.51,
-      "recommendation": "Watch / Buy Candidate",
-      "close": 585.71,
-      "rsi14": 60.11,
-      "momentum_20d": 4.04,
-      "momentum_60d": 19.76,
-      "volume_ratio": 0.77,
-      "trend_score": 40.0,
-      "learning_bonus": 0.0,
-      "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
-    },
-    {
-      "symbol": "JPM",
-      "score": 74.51,
-      "recommendation": "Watch / Buy Candidate",
-      "close": 362.06,
-      "rsi14": 48.94,
-      "momentum_20d": 1.27,
-      "momentum_60d": 17.12,
-      "volume_ratio": 0.92,
-      "trend_score": 32.0,
-      "learning_bonus": 8.46,
-      "reason": "above 20-day trend, above 50-day trend, medium trend rising, positive 20-day momentum, positive 60-day momentum"
     },
     {
       "symbol": "MSFT",
@@ -52,10 +26,23 @@
       "rsi14": 62.1,
       "momentum_20d": -1.26,
       "momentum_60d": 28.02,
-      "volume_ratio": 0.76,
+      "volume_ratio": 0.79,
       "trend_score": 40.0,
       "learning_bonus": -3.73,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 60-day momentum"
+    },
+    {
+      "symbol": "JPM",
+      "score": 70.78,
+      "recommendation": "Neutral Watch",
+      "close": 358.64,
+      "rsi14": 46.96,
+      "momentum_20d": -0.32,
+      "momentum_60d": 14.4,
+      "volume_ratio": 0.89,
+      "trend_score": 32.0,
+      "learning_bonus": 8.46,
+      "reason": "above 20-day trend, above 50-day trend, medium trend rising, positive 60-day momentum, RSI in healthy swing zone"
     },
     {
       "symbol": "NVDA",
@@ -65,7 +52,7 @@
       "rsi14": 53.68,
       "momentum_20d": 5.89,
       "momentum_60d": 12.44,
-      "volume_ratio": 1.02,
+      "volume_ratio": 1.05,
       "trend_score": 32.0,
       "learning_bonus": 0.29,
       "reason": "above 20-day trend, above 50-day trend, medium trend rising, positive 20-day momentum, positive 60-day momentum"
@@ -78,23 +65,23 @@
       "rsi14": 88.16,
       "momentum_20d": 31.25,
       "momentum_60d": 55.74,
-      "volume_ratio": 0.62,
+      "volume_ratio": 0.64,
       "trend_score": 40.0,
       "learning_bonus": 8.67,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
     },
     {
-      "symbol": "SPY",
-      "score": 65.06,
+      "symbol": "MA",
+      "score": 65.42,
       "recommendation": "Neutral Watch",
-      "close": 773.17,
-      "rsi14": 46.87,
-      "momentum_20d": -0.01,
-      "momentum_60d": 6.58,
-      "volume_ratio": 1.11,
-      "trend_score": 32.0,
-      "learning_bonus": -0.88,
-      "reason": "above 20-day trend, above 50-day trend, medium trend rising, positive 60-day momentum, RSI in healthy swing zone"
+      "close": 579.21,
+      "rsi14": 60.51,
+      "momentum_20d": 2.85,
+      "momentum_60d": 19.05,
+      "volume_ratio": 0.65,
+      "trend_score": 28.0,
+      "learning_bonus": 0.0,
+      "reason": "above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum, positive 60-day momentum"
     },
     {
       "symbol": "AAPL",
@@ -104,7 +91,7 @@
       "rsi14": 63.63,
       "momentum_20d": 3.8,
       "momentum_60d": 8.23,
-      "volume_ratio": 0.96,
+      "volume_ratio": 1.0,
       "trend_score": 32.0,
       "learning_bonus": -1.65,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, positive 20-day momentum, positive 60-day momentum"
@@ -117,7 +104,7 @@
       "rsi14": 55.85,
       "momentum_20d": 2.57,
       "momentum_60d": -3.72,
-      "volume_ratio": 1.41,
+      "volume_ratio": 1.43,
       "trend_score": 28.0,
       "learning_bonus": 0.0,
       "reason": "above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum, RSI in healthy swing zone"
@@ -130,10 +117,23 @@
       "rsi14": 51.25,
       "momentum_20d": -0.51,
       "momentum_60d": 33.0,
-      "volume_ratio": 0.83,
+      "volume_ratio": 0.84,
       "trend_score": 28.0,
       "learning_bonus": 0.0,
       "reason": "above 50-day trend, short trend rising, medium trend rising, positive 60-day momentum, RSI in healthy swing zone"
+    },
+    {
+      "symbol": "SPY",
+      "score": 55.39,
+      "recommendation": "Avoid",
+      "close": 770.19,
+      "rsi14": 47.52,
+      "momentum_20d": -0.37,
+      "momentum_60d": 4.4,
+      "volume_ratio": 0.94,
+      "trend_score": 32.0,
+      "learning_bonus": -0.88,
+      "reason": "above 20-day trend, above 50-day trend, medium trend rising, positive 60-day momentum, RSI in healthy swing zone"
     }
   ],
   "positions": [
@@ -141,21 +141,21 @@
       "symbol": "MA",
       "shares": 22,
       "entry": 523.2,
-      "current": 585.71,
-      "value": 12885.62,
-      "pnl": 1375.22,
-      "pnl_pct": 11.95,
-      "score": 79.51
+      "current": 579.21,
+      "value": 12742.62,
+      "pnl": 1232.22,
+      "pnl_pct": 10.71,
+      "score": 65.42
     },
     {
       "symbol": "V",
       "shares": 33,
       "entry": 355.74,
-      "current": 378.75,
-      "value": 12498.75,
-      "pnl": 759.33,
-      "pnl_pct": 6.47,
-      "score": 86.36
+      "current": 375.07,
+      "value": 12377.31,
+      "pnl": 637.89,
+      "pnl_pct": 5.43,
+      "score": 85.58
     },
     {
       "symbol": "PLTR",
@@ -201,11 +201,11 @@
       "symbol": "JPM",
       "shares": 33,
       "entry": 362.06,
-      "current": 362.06,
-      "value": 11947.98,
-      "pnl": 0.0,
-      "pnl_pct": 0.0,
-      "score": 74.51
+      "current": 358.64,
+      "value": 11835.12,
+      "pnl": -112.86,
+      "pnl_pct": -0.94,
+      "score": 70.78
     }
   ],
   "closed_trades": [
