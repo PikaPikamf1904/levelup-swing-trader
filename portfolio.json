@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 14501.020000000028,
+  "cash": 14203.160000000029,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -74,11 +74,11 @@
       "entry_score": 74.67
     },
     {
-      "symbol": "JPM",
-      "entry_date": "2026-09-04",
-      "entry_price": 362.06,
-      "shares": 33,
-      "entry_score": 74.51
+      "symbol": "NVDA",
+      "entry_date": "2026-09-09",
+      "entry_price": 225.73,
+      "shares": 53,
+      "entry_score": 73.59
     }
   ],
   "closed_trades": [
@@ -454,6 +454,17 @@
       "shares": 31,
       "pnl": -690.99,
       "pnl_pct": -5.92,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "JPM",
+      "entry_date": "2026-09-04",
+      "exit_date": "2026-09-09",
+      "entry_price": 362.06,
+      "exit_price": 353.51,
+      "shares": 33,
+      "pnl": -282.15,
+      "pnl_pct": -2.36,
       "reason": "score breakdown"
     }
   ]
