@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 14203.160000000029,
+  "cash": 25607.66000000003,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -58,13 +58,6 @@
       "entry_price": 481.15,
       "shares": 24,
       "entry_score": 80.23
-    },
-    {
-      "symbol": "NFLX",
-      "entry_date": "2026-08-28",
-      "entry_price": 79.84,
-      "shares": 150,
-      "entry_score": 76.84
     },
     {
       "symbol": "CRM",
@@ -465,6 +458,17 @@
       "shares": 33,
       "pnl": -282.15,
       "pnl_pct": -2.36,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "NFLX",
+      "entry_date": "2026-08-28",
+      "exit_date": "2026-09-10",
+      "entry_price": 79.84,
+      "exit_price": 76.03,
+      "shares": 150,
+      "pnl": -571.5,
+      "pnl_pct": -4.77,
       "reason": "score breakdown"
     }
   ]
