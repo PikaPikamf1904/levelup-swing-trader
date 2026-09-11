@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 25607.66000000003,
+  "cash": 50301.86000000003,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -32,25 +32,11 @@
   ],
   "positions": [
     {
-      "symbol": "MA",
-      "entry_date": "2026-07-10",
-      "entry_price": 523.2,
-      "shares": 22,
-      "entry_score": 72.94
-    },
-    {
       "symbol": "V",
       "entry_date": "2026-07-25",
       "entry_price": 355.74,
       "shares": 33,
       "entry_score": 81.58
-    },
-    {
-      "symbol": "PLTR",
-      "entry_date": "2026-08-06",
-      "entry_price": 158.43,
-      "shares": 75,
-      "entry_score": 83.44
     },
     {
       "symbol": "MSFT",
@@ -67,11 +53,11 @@
       "entry_score": 74.67
     },
     {
-      "symbol": "NVDA",
-      "entry_date": "2026-09-09",
-      "entry_price": 225.73,
-      "shares": 53,
-      "entry_score": 73.59
+      "symbol": "AAPL",
+      "entry_date": "2026-09-11",
+      "entry_price": 326.57,
+      "shares": 36,
+      "entry_score": 75.6
     }
   ],
   "closed_trades": [
@@ -469,6 +455,39 @@
       "shares": 150,
       "pnl": -571.5,
       "pnl_pct": -4.77,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "MA",
+      "entry_date": "2026-07-10",
+      "exit_date": "2026-09-11",
+      "entry_price": 523.2,
+      "exit_price": 565.37,
+      "shares": 22,
+      "pnl": 927.74,
+      "pnl_pct": 8.06,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "PLTR",
+      "entry_date": "2026-08-06",
+      "exit_date": "2026-09-11",
+      "entry_price": 158.43,
+      "exit_price": 165.86,
+      "shares": 75,
+      "pnl": 557.25,
+      "pnl_pct": 4.69,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "NVDA",
+      "entry_date": "2026-09-09",
+      "exit_date": "2026-09-11",
+      "entry_price": 225.73,
+      "exit_price": 218.36,
+      "shares": 53,
+      "pnl": -390.61,
+      "pnl_pct": -3.26,
       "reason": "score breakdown"
     }
   ]
