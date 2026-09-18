@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 62697.32000000003,
+  "cash": 50705.340000000026,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -51,6 +51,13 @@
       "entry_price": 326.57,
       "shares": 36,
       "entry_score": 75.6
+    },
+    {
+      "symbol": "AMD",
+      "entry_date": "2026-09-18",
+      "entry_price": 545.09,
+      "shares": 22,
+      "entry_score": 76.52
     }
   ],
   "closed_trades": [
