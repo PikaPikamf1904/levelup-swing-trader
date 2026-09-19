@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 50705.340000000026,
+  "cash": 38792.25000000003,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -32,13 +32,6 @@
   ],
   "positions": [
     {
-      "symbol": "MSFT",
-      "entry_date": "2026-08-20",
-      "entry_price": 481.15,
-      "shares": 24,
-      "entry_score": 80.23
-    },
-    {
       "symbol": "CRM",
       "entry_date": "2026-08-29",
       "entry_price": 256.0,
@@ -58,6 +51,20 @@
       "entry_price": 545.09,
       "shares": 22,
       "entry_score": 76.52
+    },
+    {
+      "symbol": "NVDA",
+      "entry_date": "2026-09-19",
+      "entry_price": 222.27,
+      "shares": 53,
+      "entry_score": 82.86
+    },
+    {
+      "symbol": "META",
+      "entry_date": "2026-09-19",
+      "entry_price": 665.75,
+      "shares": 18,
+      "entry_score": 76.5
     }
   ],
   "closed_trades": [
@@ -499,6 +506,17 @@
       "shares": 33,
       "pnl": 656.04,
       "pnl_pct": 5.59,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "MSFT",
+      "entry_date": "2026-08-20",
+      "exit_date": "2026-09-19",
+      "entry_price": 481.15,
+      "exit_price": 493.78,
+      "shares": 24,
+      "pnl": 303.12,
+      "pnl_pct": 2.62,
       "reason": "score breakdown"
     }
   ]
