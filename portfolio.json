@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 14366.17000000003,
+  "cash": 25818.560000000027,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -58,13 +58,6 @@
       "entry_price": 665.75,
       "shares": 18,
       "entry_score": 76.5
-    },
-    {
-      "symbol": "MSFT",
-      "entry_date": "2026-09-22",
-      "entry_price": 501.61,
-      "shares": 23,
-      "entry_score": 80.9
     },
     {
       "symbol": "QQQ",
@@ -542,6 +535,17 @@
       "shares": 46,
       "pnl": -900.68,
       "pnl_pct": -7.65,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "MSFT",
+      "entry_date": "2026-09-22",
+      "exit_date": "2026-09-25",
+      "entry_price": 501.61,
+      "exit_price": 497.93,
+      "shares": 23,
+      "pnl": -84.64,
+      "pnl_pct": -0.73,
       "reason": "score breakdown"
     }
   ]
