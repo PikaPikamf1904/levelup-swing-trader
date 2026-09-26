@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 25818.560000000027,
+  "cash": 13967.840000000026,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -46,13 +46,6 @@
       "entry_score": 76.52
     },
     {
-      "symbol": "NVDA",
-      "entry_date": "2026-09-19",
-      "entry_price": 222.27,
-      "shares": 53,
-      "entry_score": 82.86
-    },
-    {
       "symbol": "META",
       "entry_date": "2026-09-19",
       "entry_price": 665.75,
@@ -72,6 +65,20 @@
       "entry_price": 183.09,
       "shares": 65,
       "entry_score": 74.08
+    },
+    {
+      "symbol": "MSFT",
+      "entry_date": "2026-09-26",
+      "entry_price": 516.17,
+      "shares": 23,
+      "entry_score": 77.12
+    },
+    {
+      "symbol": "TSLA",
+      "entry_date": "2026-09-26",
+      "entry_price": 372.11,
+      "shares": 32,
+      "entry_score": 74.38
     }
   ],
   "closed_trades": [
@@ -546,6 +553,17 @@
       "shares": 23,
       "pnl": -84.64,
       "pnl_pct": -0.73,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "NVDA",
+      "entry_date": "2026-09-19",
+      "exit_date": "2026-09-26",
+      "entry_price": 222.27,
+      "exit_price": 225.07,
+      "shares": 53,
+      "pnl": 148.4,
+      "pnl_pct": 1.26,
       "reason": "score breakdown"
     }
   ]
