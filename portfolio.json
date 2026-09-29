@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 13967.840000000026,
+  "cash": 25687.920000000027,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -31,13 +31,6 @@
     "SPY"
   ],
   "positions": [
-    {
-      "symbol": "AAPL",
-      "entry_date": "2026-09-11",
-      "entry_price": 326.57,
-      "shares": 36,
-      "entry_score": 75.6
-    },
     {
       "symbol": "AMD",
       "entry_date": "2026-09-18",
@@ -74,11 +67,11 @@
       "entry_score": 77.12
     },
     {
-      "symbol": "TSLA",
-      "entry_date": "2026-09-26",
-      "entry_price": 372.11,
-      "shares": 32,
-      "entry_score": 74.38
+      "symbol": "NVDA",
+      "entry_date": "2026-09-29",
+      "entry_price": 228.86,
+      "shares": 52,
+      "entry_score": 86.12
     }
   ],
   "closed_trades": [
@@ -564,6 +557,28 @@
       "shares": 53,
       "pnl": 148.4,
       "pnl_pct": 1.26,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "AAPL",
+      "entry_date": "2026-09-11",
+      "exit_date": "2026-09-29",
+      "entry_price": 326.57,
+      "exit_price": 338.4,
+      "shares": 36,
+      "pnl": 425.88,
+      "pnl_pct": 3.62,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "TSLA",
+      "entry_date": "2026-09-26",
+      "exit_date": "2026-09-29",
+      "entry_price": 372.11,
+      "exit_price": 357.45,
+      "shares": 32,
+      "pnl": -469.12,
+      "pnl_pct": -3.94,
       "reason": "score breakdown"
     }
   ]
