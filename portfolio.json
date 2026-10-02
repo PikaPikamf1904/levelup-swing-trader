@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 13699.200000000028,
+  "cash": 25590.72000000003,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -72,13 +72,6 @@
       "entry_price": 228.86,
       "shares": 52,
       "entry_score": 86.12
-    },
-    {
-      "symbol": "AAPL",
-      "entry_date": "2026-10-01",
-      "entry_price": 333.02,
-      "shares": 36,
-      "entry_score": 78.07
     }
   ],
   "closed_trades": [
@@ -586,6 +579,17 @@
       "shares": 32,
       "pnl": -469.12,
       "pnl_pct": -3.94,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "AAPL",
+      "entry_date": "2026-10-01",
+      "exit_date": "2026-10-02",
+      "entry_price": 333.02,
+      "exit_price": 330.32,
+      "shares": 36,
+      "pnl": -97.2,
+      "pnl_pct": -0.81,
       "reason": "score breakdown"
     }
   ]
