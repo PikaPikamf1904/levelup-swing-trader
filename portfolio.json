@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 25590.72000000003,
+  "cash": 25904.850000000028,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -46,13 +46,6 @@
       "entry_score": 76.5
     },
     {
-      "symbol": "QQQ",
-      "entry_date": "2026-09-22",
-      "entry_price": 741.47,
-      "shares": 16,
-      "entry_score": 78.19
-    },
-    {
       "symbol": "PLTR",
       "entry_date": "2026-09-22",
       "entry_price": 183.09,
@@ -72,6 +65,13 @@
       "entry_price": 228.86,
       "shares": 52,
       "entry_score": 86.12
+    },
+    {
+      "symbol": "AAPL",
+      "entry_date": "2026-10-03",
+      "entry_price": 333.69,
+      "shares": 35,
+      "entry_score": 72.03
     }
   ],
   "closed_trades": [
@@ -590,6 +590,17 @@
       "shares": 36,
       "pnl": -97.2,
       "pnl_pct": -0.81,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "QQQ",
+      "entry_date": "2026-09-22",
+      "exit_date": "2026-10-03",
+      "entry_price": 741.47,
+      "exit_price": 749.58,
+      "shares": 16,
+      "pnl": 129.76,
+      "pnl_pct": 1.09,
       "reason": "score breakdown"
     }
   ]
