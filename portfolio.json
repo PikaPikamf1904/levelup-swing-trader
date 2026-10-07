@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 25904.850000000028,
+  "cash": 40192.090000000026,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -31,13 +31,6 @@
     "SPY"
   ],
   "positions": [
-    {
-      "symbol": "AMD",
-      "entry_date": "2026-09-18",
-      "entry_price": 545.09,
-      "shares": 22,
-      "entry_score": 76.52
-    },
     {
       "symbol": "META",
       "entry_date": "2026-09-19",
@@ -602,6 +595,17 @@
       "pnl": 129.76,
       "pnl_pct": 1.09,
       "reason": "score breakdown"
+    },
+    {
+      "symbol": "AMD",
+      "entry_date": "2026-09-18",
+      "exit_date": "2026-10-07",
+      "entry_price": 545.09,
+      "exit_price": 649.42,
+      "shares": 22,
+      "pnl": 2295.26,
+      "pnl_pct": 19.14,
+      "reason": "take profit"
     }
   ]
 }
