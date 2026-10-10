@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 16437.89000000003,
+  "cash": 29373.950000000026,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -31,13 +31,6 @@
     "SPY"
   ],
   "positions": [
-    {
-      "symbol": "META",
-      "entry_date": "2026-09-19",
-      "entry_price": 665.75,
-      "shares": 18,
-      "entry_score": 76.5
-    },
     {
       "symbol": "PLTR",
       "entry_date": "2026-09-22",
@@ -620,6 +613,17 @@
       "pnl": 2295.26,
       "pnl_pct": 19.14,
       "reason": "take profit"
+    },
+    {
+      "symbol": "META",
+      "entry_date": "2026-09-19",
+      "exit_date": "2026-10-10",
+      "entry_price": 665.75,
+      "exit_price": 718.67,
+      "shares": 18,
+      "pnl": 952.56,
+      "pnl_pct": 7.95,
+      "reason": "score breakdown"
     }
   ]
 }
