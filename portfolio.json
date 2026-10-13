@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 29373.950000000026,
+  "cash": 17486.590000000026,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -72,6 +72,13 @@
       "entry_price": 747.58,
       "shares": 16,
       "entry_score": 80.29
+    },
+    {
+      "symbol": "META",
+      "entry_date": "2026-10-13",
+      "entry_price": 742.96,
+      "shares": 16,
+      "entry_score": 90.66
     }
   ],
   "closed_trades": [
