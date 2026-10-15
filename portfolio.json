@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 17486.590000000026,
+  "cash": 39760.07000000003,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -46,13 +46,6 @@
       "entry_score": 77.12
     },
     {
-      "symbol": "NVDA",
-      "entry_date": "2026-09-29",
-      "entry_price": 228.86,
-      "shares": 52,
-      "entry_score": 86.12
-    },
-    {
       "symbol": "AAPL",
       "entry_date": "2026-10-03",
       "entry_price": 333.69,
@@ -60,25 +53,18 @@
       "entry_score": 72.03
     },
     {
-      "symbol": "AMD",
-      "entry_date": "2026-10-09",
-      "entry_price": 620.68,
-      "shares": 19,
-      "entry_score": 90.39
-    },
-    {
-      "symbol": "QQQ",
-      "entry_date": "2026-10-09",
-      "entry_price": 747.58,
-      "shares": 16,
-      "entry_score": 80.29
-    },
-    {
       "symbol": "META",
       "entry_date": "2026-10-13",
       "entry_price": 742.96,
       "shares": 16,
       "entry_score": 90.66
+    },
+    {
+      "symbol": "V",
+      "entry_date": "2026-10-15",
+      "entry_price": 391.43,
+      "shares": 30,
+      "entry_score": 82.85
     }
   ],
   "closed_trades": [
@@ -630,6 +616,39 @@
       "shares": 18,
       "pnl": 952.56,
       "pnl_pct": 7.95,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "NVDA",
+      "entry_date": "2026-09-29",
+      "exit_date": "2026-10-15",
+      "entry_price": 228.86,
+      "exit_price": 221.3,
+      "shares": 52,
+      "pnl": -393.12,
+      "pnl_pct": -3.3,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "AMD",
+      "entry_date": "2026-10-09",
+      "exit_date": "2026-10-15",
+      "entry_price": 620.68,
+      "exit_price": 570.82,
+      "shares": 19,
+      "pnl": -947.34,
+      "pnl_pct": -8.03,
+      "reason": "stop loss"
+    },
+    {
+      "symbol": "QQQ",
+      "entry_date": "2026-10-09",
+      "exit_date": "2026-10-15",
+      "entry_price": 747.58,
+      "exit_price": 728.95,
+      "shares": 16,
+      "pnl": -298.08,
+      "pnl_pct": -2.49,
       "reason": "score breakdown"
     }
   ]
