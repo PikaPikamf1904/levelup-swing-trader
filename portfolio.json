@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 39760.07000000003,
+  "cash": 4747.190000000026,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -65,6 +65,27 @@
       "entry_price": 391.43,
       "shares": 30,
       "entry_score": 82.85
+    },
+    {
+      "symbol": "WMT",
+      "entry_date": "2026-10-16",
+      "entry_price": 117.87,
+      "shares": 101,
+      "entry_score": 80.85
+    },
+    {
+      "symbol": "CRM",
+      "entry_date": "2026-10-16",
+      "entry_price": 246.74,
+      "shares": 48,
+      "entry_score": 79.09
+    },
+    {
+      "symbol": "LLY",
+      "entry_date": "2026-10-16",
+      "entry_price": 1251.61,
+      "shares": 9,
+      "entry_score": 78.03
     }
   ],
   "closed_trades": [
