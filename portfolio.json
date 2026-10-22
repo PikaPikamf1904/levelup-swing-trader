@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 28085.170000000027,
+  "cash": 16104.600000000026,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -72,6 +72,13 @@
       "entry_price": 1251.61,
       "shares": 9,
       "entry_score": 78.03
+    },
+    {
+      "symbol": "TSLA",
+      "entry_date": "2026-10-22",
+      "entry_price": 386.47,
+      "shares": 31,
+      "entry_score": 84.95
     }
   ],
   "closed_trades": [
