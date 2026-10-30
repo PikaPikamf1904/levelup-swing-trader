@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 4706.820000000025,
+  "cash": 16604.360000000022,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -32,13 +32,6 @@
   ],
   "positions": [
     {
-      "symbol": "PLTR",
-      "entry_date": "2026-09-22",
-      "entry_price": 183.09,
-      "shares": 65,
-      "entry_score": 74.08
-    },
-    {
       "symbol": "MSFT",
       "entry_date": "2026-09-26",
       "entry_price": 516.17,
@@ -60,13 +53,6 @@
       "entry_score": 82.85
     },
     {
-      "symbol": "CRM",
-      "entry_date": "2026-10-16",
-      "entry_price": 246.74,
-      "shares": 48,
-      "entry_score": 79.09
-    },
-    {
       "symbol": "LLY",
       "entry_date": "2026-10-16",
       "entry_price": 1251.61,
@@ -86,6 +72,13 @@
       "entry_price": 633.21,
       "shares": 18,
       "entry_score": 78.0
+    },
+    {
+      "symbol": "COST",
+      "entry_date": "2026-10-30",
+      "entry_price": 996.08,
+      "shares": 12,
+      "entry_score": 76.44
     }
   ],
   "closed_trades": [
@@ -692,6 +685,28 @@
       "shares": 101,
       "pnl": 83.83,
       "pnl_pct": 0.7,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "PLTR",
+      "entry_date": "2026-09-22",
+      "exit_date": "2026-10-30",
+      "entry_price": 183.09,
+      "exit_price": 196.42,
+      "shares": 65,
+      "pnl": 866.45,
+      "pnl_pct": 7.28,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "CRM",
+      "entry_date": "2026-10-16",
+      "exit_date": "2026-10-30",
+      "entry_price": 246.74,
+      "exit_price": 230.9,
+      "shares": 48,
+      "pnl": -760.32,
+      "pnl_pct": -6.42,
       "reason": "score breakdown"
     }
   ]
