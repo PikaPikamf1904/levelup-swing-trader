@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 16604.360000000022,
+  "cash": 4825.6900000000205,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -31,13 +31,6 @@
     "SPY"
   ],
   "positions": [
-    {
-      "symbol": "MSFT",
-      "entry_date": "2026-09-26",
-      "entry_price": 516.17,
-      "shares": 23,
-      "entry_score": 77.12
-    },
     {
       "symbol": "AAPL",
       "entry_date": "2026-10-03",
@@ -79,6 +72,20 @@
       "entry_price": 996.08,
       "shares": 12,
       "entry_score": 76.44
+    },
+    {
+      "symbol": "WMT",
+      "entry_date": "2026-10-31",
+      "entry_price": 123.51,
+      "shares": 97,
+      "entry_score": 76.6
+    },
+    {
+      "symbol": "UNH",
+      "entry_date": "2026-10-31",
+      "entry_price": 406.97,
+      "shares": 29,
+      "entry_score": 75.67
     }
   ],
   "closed_trades": [
@@ -707,6 +714,17 @@
       "shares": 48,
       "pnl": -760.32,
       "pnl_pct": -6.42,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "MSFT",
+      "entry_date": "2026-09-26",
+      "exit_date": "2026-10-31",
+      "entry_price": 516.17,
+      "exit_price": 521.91,
+      "shares": 23,
+      "pnl": 132.02,
+      "pnl_pct": 1.11,
       "reason": "score breakdown"
     }
   ]
