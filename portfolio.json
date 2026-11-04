@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 4825.6900000000205,
+  "cash": 16442.19000000002,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -31,13 +31,6 @@
     "SPY"
   ],
   "positions": [
-    {
-      "symbol": "AAPL",
-      "entry_date": "2026-10-03",
-      "entry_price": 333.69,
-      "shares": 35,
-      "entry_score": 72.03
-    },
     {
       "symbol": "V",
       "entry_date": "2026-10-15",
@@ -725,6 +718,17 @@
       "shares": 23,
       "pnl": 132.02,
       "pnl_pct": 1.11,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "AAPL",
+      "entry_date": "2026-10-03",
+      "exit_date": "2026-11-04",
+      "entry_price": 333.69,
+      "exit_price": 331.9,
+      "shares": 35,
+      "pnl": -62.65,
+      "pnl_pct": -0.54,
       "reason": "score breakdown"
     }
   ]
