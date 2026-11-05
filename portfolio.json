@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 16442.19000000002,
+  "cash": 4558.85000000002,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -79,6 +79,13 @@
       "entry_price": 406.97,
       "shares": 29,
       "entry_score": 75.67
+    },
+    {
+      "symbol": "AAPL",
+      "entry_date": "2026-11-05",
+      "entry_price": 349.51,
+      "shares": 34,
+      "entry_score": 83.49
     }
   ],
   "closed_trades": [
