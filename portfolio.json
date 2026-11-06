@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 4558.85000000002,
+  "cash": 3315.2800000000207,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -46,13 +46,6 @@
       "entry_score": 78.03
     },
     {
-      "symbol": "TSLA",
-      "entry_date": "2026-10-22",
-      "entry_price": 386.47,
-      "shares": 31,
-      "entry_score": 84.95
-    },
-    {
       "symbol": "MA",
       "entry_date": "2026-10-23",
       "entry_price": 633.21,
@@ -86,6 +79,13 @@
       "entry_price": 349.51,
       "shares": 34,
       "entry_score": 83.49
+    },
+    {
+      "symbol": "HD",
+      "entry_date": "2026-11-06",
+      "entry_price": 349.94,
+      "shares": 34,
+      "entry_score": 78.91
     }
   ],
   "closed_trades": [
@@ -737,6 +737,17 @@
       "pnl": -62.65,
       "pnl_pct": -0.54,
       "reason": "score breakdown"
+    },
+    {
+      "symbol": "TSLA",
+      "entry_date": "2026-10-22",
+      "exit_date": "2026-11-06",
+      "entry_price": 386.47,
+      "exit_price": 343.69,
+      "shares": 31,
+      "pnl": -1326.18,
+      "pnl_pct": -11.07,
+      "reason": "stop loss"
     }
   ]
 }
