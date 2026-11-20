@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 14745.63000000002,
+  "cash": 38973.21000000002,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -31,20 +31,6 @@
     "SPY"
   ],
   "positions": [
-    {
-      "symbol": "V",
-      "entry_date": "2026-10-15",
-      "entry_price": 391.43,
-      "shares": 30,
-      "entry_score": 82.85
-    },
-    {
-      "symbol": "LLY",
-      "entry_date": "2026-10-16",
-      "entry_price": 1251.61,
-      "shares": 9,
-      "entry_score": 78.03
-    },
     {
       "symbol": "MA",
       "entry_date": "2026-10-23",
@@ -751,6 +737,28 @@
       "shares": 29,
       "pnl": -371.78,
       "pnl_pct": -3.15,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "V",
+      "entry_date": "2026-10-15",
+      "exit_date": "2026-11-20",
+      "entry_price": 391.43,
+      "exit_price": 402.25,
+      "shares": 30,
+      "pnl": 324.6,
+      "pnl_pct": 2.76,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "LLY",
+      "entry_date": "2026-10-16",
+      "exit_date": "2026-11-20",
+      "entry_price": 1251.61,
+      "exit_price": 1351.12,
+      "shares": 9,
+      "pnl": 895.59,
+      "pnl_pct": 7.95,
       "reason": "score breakdown"
     }
   ]
