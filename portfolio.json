@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 38973.21000000002,
+  "cash": 50411.85000000002,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -31,13 +31,6 @@
     "SPY"
   ],
   "positions": [
-    {
-      "symbol": "MA",
-      "entry_date": "2026-10-23",
-      "entry_price": 633.21,
-      "shares": 18,
-      "entry_score": 78.0
-    },
     {
       "symbol": "COST",
       "entry_date": "2026-10-30",
@@ -759,6 +752,17 @@
       "shares": 9,
       "pnl": 895.59,
       "pnl_pct": 7.95,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "MA",
+      "entry_date": "2026-10-23",
+      "exit_date": "2026-11-24",
+      "entry_price": 633.21,
+      "exit_price": 635.48,
+      "shares": 18,
+      "pnl": 40.86,
+      "pnl_pct": 0.36,
       "reason": "score breakdown"
     }
   ]
