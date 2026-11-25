@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 50411.85000000002,
+  "cash": 39151.13000000002,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -58,6 +58,13 @@
       "entry_price": 349.94,
       "shares": 34,
       "entry_score": 78.91
+    },
+    {
+      "symbol": "LLY",
+      "entry_date": "2026-11-25",
+      "entry_price": 1407.59,
+      "shares": 8,
+      "entry_score": 89.94
     }
   ],
   "closed_trades": [
