@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 39151.13000000002,
+  "cash": 15388.75000000002,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -65,6 +65,20 @@
       "entry_price": 1407.59,
       "shares": 8,
       "entry_score": 89.94
+    },
+    {
+      "symbol": "MA",
+      "entry_date": "2026-11-26",
+      "entry_price": 659.97,
+      "shares": 18,
+      "entry_score": 72.78
+    },
+    {
+      "symbol": "V",
+      "entry_date": "2026-11-26",
+      "entry_price": 424.39,
+      "shares": 28,
+      "entry_score": 72.65
     }
   ],
   "closed_trades": [
