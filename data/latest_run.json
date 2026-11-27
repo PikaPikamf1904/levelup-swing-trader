@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-26T05:19:48.411818+00:00",
+  "date": "2026-11-27T05:17:45.115756+00:00",
   "total_value": 100501.35,
   "cash": 15388.75,
   "invested": 85112.6,
@@ -26,7 +26,7 @@
       "rsi14": 59.56,
       "momentum_20d": 9.81,
       "momentum_60d": 13.42,
-      "volume_ratio": 1.2,
+      "volume_ratio": 1.35,
       "trend_score": 40.0,
       "learning_bonus": -1.54,
       "reason": "above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
@@ -104,7 +104,7 @@
       "rsi14": 61.51,
       "momentum_20d": -5.74,
       "momentum_60d": 6.48,
-      "volume_ratio": 0.95,
+      "volume_ratio": 0.98,
       "trend_score": 20.0,
       "learning_bonus": -2.87,
       "reason": "above 50-day trend, medium trend rising, positive 60-day momentum, RSI in healthy swing zone"
@@ -117,7 +117,7 @@
       "rsi14": 39.96,
       "momentum_20d": 0.26,
       "momentum_60d": -4.14,
-      "volume_ratio": 1.11,
+      "volume_ratio": 1.13,
       "trend_score": 16.0,
       "learning_bonus": -2.43,
       "reason": "short trend rising, medium trend rising, positive 20-day momentum, weak RSI, volume confirmation"
@@ -130,7 +130,7 @@
       "rsi14": 51.11,
       "momentum_20d": -2.34,
       "momentum_60d": 2.87,
-      "volume_ratio": 1.01,
+      "volume_ratio": 1.02,
       "trend_score": 0.0,
       "learning_bonus": 0.88,
       "reason": "positive 60-day momentum, RSI in healthy swing zone"
