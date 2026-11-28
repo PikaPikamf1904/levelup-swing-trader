@@ -1,23 +1,23 @@
 symbol,score,recommendation,close,rsi14,momentum_20d,momentum_60d,volume_ratio,trend_score,learning_bonus,reason
-WMT,92.69,Strong Watch / Sim Buy,131.94,64.73,8.82,24.37,0.94,40.0,4.35,"above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
-HD,90.25,Strong Watch / Sim Buy,361.26,59.56,9.81,13.42,1.35,40.0,-1.54,"above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
-COST,84.98,Strong Watch / Sim Buy,1086.81,59.16,9.11,17.05,1.01,40.0,0.0,"above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
-MA,72.78,Watch / Buy Candidate,659.97,52.05,3.82,12.21,1.08,32.0,6.11,"above 20-day trend, above 50-day trend, medium trend rising, positive 20-day momentum, positive 60-day momentum"
-V,72.65,Watch / Buy Candidate,424.39,51.44,3.37,12.15,0.89,32.0,6.63,"above 20-day trend, above 50-day trend, medium trend rising, positive 20-day momentum, positive 60-day momentum"
-AAPL,70.7,Neutral Watch,355.58,61.56,1.91,9.42,1.05,40.0,0.37,"above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
-LLY,58.06,Avoid,1392.22,54.7,1.35,20.01,0.88,20.0,2.17,"above 50-day trend, medium trend rising, positive 20-day momentum, positive 60-day momentum, RSI in healthy swing zone"
-TSLA,31.27,Avoid,380.14,61.51,-5.74,6.48,0.98,20.0,-2.87,"above 50-day trend, medium trend rising, positive 60-day momentum, RSI in healthy swing zone"
-AMZN,17.87,Avoid,244.43,39.96,0.26,-4.14,1.13,16.0,-2.43,"short trend rising, medium trend rising, positive 20-day momentum, weak RSI, volume confirmation"
-META,16.26,Avoid,609.89,51.11,-2.34,2.87,1.02,0.0,0.88,"positive 60-day momentum, RSI in healthy swing zone"
-QQQ,7.26,Avoid,633.93,46.71,-11.38,-10.62,1.29,0.0,-0.05,"RSI in healthy swing zone, volume confirmation"
-PLTR,7.26,Avoid,163.59,56.38,-16.71,-3.46,0.83,0.0,6.99,RSI in healthy swing zone
-SPY,5.11,Avoid,716.7,44.2,-6.84,-6.33,1.12,0.0,-0.88,"volume confirmation, controlled volatility"
-MSFT,0.0,Avoid,489.93,28.7,-7.58,-1.39,0.87,0.0,1.44,"weak RSI, controlled volatility"
-GOOGL,0.0,Avoid,273.1,44.18,-3.78,-18.99,0.91,0.0,0.0,
-NVDA,0.0,Avoid,149.3,37.68,-30.12,-33.47,1.04,0.0,0.37,"weak RSI, high volatility"
-AVGO,0.0,Avoid,300.86,52.38,-12.79,-18.08,1.06,8.0,-3.12,"short trend rising, RSI in healthy swing zone, high volatility"
-NFLX,0.0,Avoid,59.41,30.07,-4.25,-28.19,1.13,0.0,-2.38,"weak RSI, volume confirmation, controlled volatility"
-CRM,0.0,Avoid,197.21,32.14,-14.59,-23.24,0.92,0.0,4.08,weak RSI
-AMD,0.0,Avoid,406.03,50.17,-28.32,-11.16,1.1,0.0,1.32,"RSI in healthy swing zone, high volatility"
-UNH,0.0,Avoid,346.19,30.74,-15.75,-13.38,0.87,0.0,1.59,weak RSI
-JPM,0.0,Avoid,316.74,32.33,-7.81,-11.08,1.03,0.0,3.64,"weak RSI, controlled volatility"
+HD,82.79,Strong Watch / Sim Buy,362.15,67.41,10.01,13.86,0.6,40.0,-1.54,"above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
+COST,76.01,Watch / Buy Candidate,1097.81,69.27,8.45,18.63,0.51,40.0,0.0,"above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
+MA,74.79,Watch / Buy Candidate,666.96,56.94,4.54,13.87,0.53,32.0,6.11,"above 20-day trend, above 50-day trend, medium trend rising, positive 20-day momentum, positive 60-day momentum"
+V,74.08,Watch / Buy Candidate,429.56,55.11,3.86,13.42,0.51,32.0,6.63,"above 20-day trend, above 50-day trend, medium trend rising, positive 20-day momentum, positive 60-day momentum"
+AAPL,73.57,Watch / Buy Candidate,358.54,66.0,4.04,9.24,0.45,40.0,0.37,"above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
+WMT,68.93,Neutral Watch,133.13,78.59,7.79,22.79,0.44,40.0,4.35,"above 20-day trend, above 50-day trend, short trend rising, medium trend rising, positive 20-day momentum"
+LLY,54.44,Avoid,1392.38,56.81,-1.77,20.07,0.55,20.0,2.17,"above 50-day trend, medium trend rising, positive 60-day momentum, RSI in healthy swing zone, controlled volatility"
+TSLA,48.96,Avoid,400.0,62.77,0.05,6.28,0.74,32.0,-2.87,"above 20-day trend, above 50-day trend, medium trend rising, positive 20-day momentum, positive 60-day momentum"
+AMZN,34.67,Avoid,254.12,47.04,5.73,-1.85,0.52,8.0,-2.43,"medium trend rising, positive 20-day momentum, RSI in healthy swing zone, controlled volatility"
+META,33.86,Avoid,628.96,54.06,2.27,2.99,0.64,12.0,0.88,"above 20-day trend, positive 20-day momentum, positive 60-day momentum, RSI in healthy swing zone"
+PLTR,25.67,Avoid,172.17,58.35,-6.49,-5.68,0.59,12.0,6.99,"above 20-day trend, RSI in healthy swing zone"
+SPY,14.59,Avoid,728.32,47.67,-3.63,-5.8,0.62,0.0,-0.88,"RSI in healthy swing zone, controlled volatility"
+QQQ,5.58,Avoid,650.99,48.77,-5.72,-9.29,0.55,0.0,-0.05,RSI in healthy swing zone
+AVGO,2.39,Avoid,312.34,54.54,-4.21,-12.55,0.53,8.0,-3.12,"short trend rising, RSI in healthy swing zone, high volatility"
+JPM,2.06,Avoid,322.96,40.65,-4.18,-10.8,0.49,0.0,3.64,controlled volatility
+GOOGL,0.0,Avoid,274.96,43.94,-1.74,-19.72,0.57,0.0,0.0,controlled volatility
+MSFT,0.0,Avoid,492.85,32.12,-5.57,-3.39,0.43,0.0,1.44,"weak RSI, controlled volatility"
+NVDA,0.0,Avoid,150.49,35.8,-26.46,-34.13,0.51,0.0,0.37,"weak RSI, high volatility"
+CRM,0.0,Avoid,198.21,37.71,-13.51,-25.04,0.35,0.0,4.08,"weak RSI, controlled volatility"
+NFLX,0.0,Avoid,60.93,41.62,-1.85,-26.3,0.55,0.0,-2.38,controlled volatility
+AMD,0.0,Avoid,424.54,47.25,-15.9,-6.93,0.47,0.0,1.32,"RSI in healthy swing zone, high volatility"
+UNH,0.0,Avoid,351.41,33.84,-13.65,-12.35,0.4,0.0,1.59,weak RSI

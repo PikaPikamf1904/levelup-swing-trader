@@ -1,6 +1,6 @@
 {
   "starting_cash": 100000.0,
-  "cash": 15388.75000000002,
+  "cash": 26527.790000000023,
   "max_positions": 8,
   "position_size_pct": 0.12,
   "stop_loss_pct": 0.08,
@@ -58,13 +58,6 @@
       "entry_price": 349.94,
       "shares": 34,
       "entry_score": 78.91
-    },
-    {
-      "symbol": "LLY",
-      "entry_date": "2026-11-25",
-      "entry_price": 1407.59,
-      "shares": 8,
-      "entry_score": 89.94
     },
     {
       "symbol": "MA",
@@ -784,6 +777,17 @@
       "shares": 18,
       "pnl": 40.86,
       "pnl_pct": 0.36,
+      "reason": "score breakdown"
+    },
+    {
+      "symbol": "LLY",
+      "entry_date": "2026-11-25",
+      "exit_date": "2026-11-28",
+      "entry_price": 1407.59,
+      "exit_price": 1392.38,
+      "shares": 8,
+      "pnl": -121.68,
+      "pnl_pct": -1.08,
       "reason": "score breakdown"
     }
   ]
